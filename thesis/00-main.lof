@@ -1,0 +1,19 @@
+\babel@toc {american}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces K-Means Elbow Method}}{13}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces CV Silhouette Method}}{14}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces DPV Silhouette Method}}{14}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Cyclic Voltammetry t-SNE Projection}}{17}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Cyclic Voltammetry UMAP Projection}}{18}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Differential Pulse Voltammetry t-SNE Projection}}{19}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Differential Pulse Voltammetry UMAP Projection}}{20}{figure.caption.11}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Classification Model Architecture}}{23}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces CV Ligand ROC Curves}}{24}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces CV Metal ROC Curves}}{24}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces CV Metal Confusion Matrix}}{25}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces CV Ligand Confusion Matrix}}{26}{figure.caption.16}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
