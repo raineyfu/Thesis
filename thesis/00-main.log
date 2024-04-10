@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.6)  8 APR 2024 22:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.6)  9 APR 2024 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1746,8 +1746,15 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 47
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (00-main.aux (01-title.aux) (02-abstract.aux) (05-chapter-1.aux)
-(06-chapter-2.aux) (07-chapter-3.aux) (08-chapter-4.aux) (09-chapter-5.aux)
-(10-references.aux) (11-appendix-A.aux))
+(06-chapter-2.aux) (07-chapter-3.aux
+
+LaTeX Warning: Label `cv_metal_report' multiply defined.
+
+
+LaTeX Warning: Label `cv_metal_report@cref' multiply defined.
+
+) (08-chapter-4.aux) (09-chapter-5.aux) (10-references.aux) (11-appendix-A.aux)
+)
 \openout1 = `00-main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 471.
@@ -2024,17 +2031,17 @@ Chapter 2.
 
 ] [8{C:/Users/immun/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.
 enc}] [9] [10] [11]
-<figures/elbowmethod.png, id=320, 854.9541pt x 422.0568pt>
+<figures/elbowmethod.png, id=332, 854.9541pt x 422.0568pt>
 File: figures/elbowmethod.png Graphic file (type png)
 <use figures/elbowmethod.png>
 Package pdftex.def Info: figures/elbowmethod.png  used on input line 61.
 (pdftex.def)             Requested size: 433.62001pt x 214.06114pt.
-<figures/cv_silhouette.png, id=323, 1071.7641pt x 566.5968pt>
+<figures/cv_silhouette.png, id=335, 1071.7641pt x 566.5968pt>
 File: figures/cv_silhouette.png Graphic file (type png)
 <use figures/cv_silhouette.png>
 Package pdftex.def Info: figures/cv_silhouette.png  used on input line 68.
 (pdftex.def)             Requested size: 433.62001pt x 229.23701pt.
-<figures/dpv_silhouette.png, id=325, 1072.4868pt x 566.5968pt>
+<figures/dpv_silhouette.png, id=337, 1072.4868pt x 566.5968pt>
 File: figures/dpv_silhouette.png Graphic file (type png)
 <use figures/dpv_silhouette.png>
 Package pdftex.def Info: figures/dpv_silhouette.png  used on input line 75.
@@ -2049,22 +2056,22 @@ LaTeX Warning: Reference ` dpv-tsne' on page 1 undefined on input line 80.
 
 LaTeX Warning: Reference ` cv-umap' on page 1 undefined on input line 80.
 
-<figures/cv_tsne.png, id=328, 707.5233pt x 880.2486pt>
+<figures/cv_tsne.png, id=340, 707.5233pt x 880.2486pt>
 File: figures/cv_tsne.png Graphic file (type png)
 <use figures/cv_tsne.png>
 Package pdftex.def Info: figures/cv_tsne.png  used on input line 84.
 (pdftex.def)             Requested size: 433.62001pt x 539.48943pt.
-<figures/cv_umap.png, id=329, 701.019pt x 880.2486pt>
+<figures/cv_umap.png, id=341, 701.019pt x 880.2486pt>
 File: figures/cv_umap.png Graphic file (type png)
 <use figures/cv_umap.png>
 Package pdftex.def Info: figures/cv_umap.png  used on input line 90.
 (pdftex.def)             Requested size: 433.62001pt x 544.48593pt.
-<figures/dpv_tsne.png, id=330, 710.4141pt x 880.2486pt>
+<figures/dpv_tsne.png, id=342, 710.4141pt x 880.2486pt>
 File: figures/dpv_tsne.png Graphic file (type png)
 <use figures/dpv_tsne.png>
 Package pdftex.def Info: figures/dpv_tsne.png  used on input line 96.
 (pdftex.def)             Requested size: 433.62001pt x 537.28665pt.
-<figures/dpv_umap.png, id=331, 698.8509pt x 880.2486pt>
+<figures/dpv_umap.png, id=343, 698.8509pt x 880.2486pt>
 File: figures/dpv_umap.png Graphic file (type png)
 <use figures/dpv_umap.png>
 Package pdftex.def Info: figures/dpv_umap.png  used on input line 102.
@@ -2113,7 +2120,7 @@ e 13.
 
 
 ] [22]
-<figures/model_architecture.png, id=393, 394.47375pt x 1517.67pt>
+<figures/model_architecture.png, id=405, 394.47375pt x 1517.67pt>
 File: figures/model_architecture.png Graphic file (type png)
 <use figures/model_architecture.png>
 Package pdftex.def Info: figures/model_architecture.png  used on input line 21.
@@ -2126,30 +2133,52 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ligand_roc.png, id=394, 1138.2525pt x 617.9085pt>
+<figures/ligand_roc.png, id=408, 1138.2525pt x 617.9085pt>
 File: figures/ligand_roc.png Graphic file (type png)
 <use figures/ligand_roc.png>
-Package pdftex.def Info: figures/ligand_roc.png  used on input line 57.
+Package pdftex.def Info: figures/ligand_roc.png  used on input line 108.
 (pdftex.def)             Requested size: 433.62001pt x 235.39223pt.
-<figures/metal_roc.png, id=395, 1138.2525pt x 617.9085pt>
+<figures/metal_roc.png, id=409, 1138.2525pt x 617.9085pt>
 File: figures/metal_roc.png Graphic file (type png)
 <use figures/metal_roc.png>
-Package pdftex.def Info: figures/metal_roc.png  used on input line 63.
+Package pdftex.def Info: figures/metal_roc.png  used on input line 114.
 (pdftex.def)             Requested size: 433.62001pt x 235.39223pt.
-<figures/cv_metal_matrix.png, id=396, 493.6041pt x 395.3169pt>
-File: figures/cv_metal_matrix.png Graphic file (type png)
-<use figures/cv_metal_matrix.png>
-Package pdftex.def Info: figures/cv_metal_matrix.png  used on input line 70.
-(pdftex.def)             Requested size: 433.62001pt x 347.28276pt.
-<figures/cv_ligand_matrix.png, id=398, 493.6041pt x 395.3169pt>
+<figures/dpv_ligand_roc.png, id=410, 1138.2525pt x 617.9085pt>
+File: figures/dpv_ligand_roc.png Graphic file (type png)
+<use figures/dpv_ligand_roc.png>
+Package pdftex.def Info: figures/dpv_ligand_roc.png  used on input line 121.
+(pdftex.def)             Requested size: 433.62001pt x 235.39223pt.
+<figures/dpv_metal_roc.png, id=411, 1138.2525pt x 617.9085pt>
+File: figures/dpv_metal_roc.png Graphic file (type png)
+<use figures/dpv_metal_roc.png>
+Package pdftex.def Info: figures/dpv_metal_roc.png  used on input line 127.
+(pdftex.def)             Requested size: 433.62001pt x 235.39223pt.
+<figures/cv_ligand_matrix.png, id=414, 493.6041pt x 395.3169pt>
 File: figures/cv_ligand_matrix.png Graphic file (type png)
 <use figures/cv_ligand_matrix.png>
-Package pdftex.def Info: figures/cv_ligand_matrix.png  used on input line 77.
+Package pdftex.def Info: figures/cv_ligand_matrix.png  used on input line 134.
 (pdftex.def)             Requested size: 433.62001pt x 347.28276pt.
+<figures/cv_metal_matrix.png, id=416, 493.6041pt x 395.3169pt>
+File: figures/cv_metal_matrix.png Graphic file (type png)
+<use figures/cv_metal_matrix.png>
+Package pdftex.def Info: figures/cv_metal_matrix.png  used on input line 141.
+(pdftex.def)             Requested size: 433.62001pt x 347.28276pt.
+<figures/dpv_ligand_matrix.png, id=418, 493.6041pt x 395.3169pt>
+File: figures/dpv_ligand_matrix.png Graphic file (type png)
+<use figures/dpv_ligand_matrix.png>
+Package pdftex.def Info: figures/dpv_ligand_matrix.png  used on input line 148.
+
+(pdftex.def)             Requested size: 433.62001pt x 347.28276pt.
+<figures/dpv_metal_matrix.png, id=419, 493.6041pt x 395.3169pt>
+File: figures/dpv_metal_matrix.png Graphic file (type png)
+<use figures/dpv_metal_matrix.png>
+Package pdftex.def Info: figures/dpv_metal_matrix.png  used on input line 154.
+(pdftex.def)             Requested size: 433.62001pt x 347.28276pt.
+)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23] [24 <./figures/model_architecture.png>] [25]
+[23] [24 <./figures/model_architecture.png>] [25] [26]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2159,29 +2188,57 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [26 <./figures/ligand_roc.png>] [27 <./figures/metal_roc.png>] [28 <./figures
-/cv_metal_matrix.png>] [29 <./figures/cv_ligand_matrix.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28]
+
+LaTeX Warning: Text page 29 contains only floats.
+
+[29 <./figures/ligand_roc.png> <./figures/metal_roc.png>]
+
+LaTeX Warning: Text page 30 contains only floats.
+
+[30 <./figures/dpv_ligand_roc.png> <./figures/dpv_metal_roc.png>] [31 <./figure
+s/cv_ligand_matrix.png>] [32 <./figures/cv_metal_matrix.png>] [33 <./figures/dp
+v_ligand_matrix.png>] [34 <./figures/dpv_metal_matrix.png>]
 \openout2 = `08-chapter-4.aux'.
 
  (08-chapter-4.tex
 Chapter 4.
-[30
+[35
 
 
 
 
 ]
-<figures/autoencoder.png, id=438, 723.4227pt x 395.3169pt>
+<figures/autoencoder.png, id=485, 723.4227pt x 395.3169pt>
 File: figures/autoencoder.png Graphic file (type png)
 <use figures/autoencoder.png>
 Package pdftex.def Info: figures/autoencoder.png  used on input line 11.
 (pdftex.def)             Requested size: 433.62001pt x 236.95671pt.
-) [31 <./figures/autoencoder.png>] [32]
+) [36 <./figures/autoencoder.png>] [37]
 \openout2 = `09-chapter-5.aux'.
 
  (09-chapter-5.tex
 Chapter 5.
-) [33
+) [38
 
 
 
@@ -2189,268 +2246,268 @@ Chapter 5.
 ]
 \openout2 = `10-references.aux'.
 
- (10-references.tex [34
+ (10-references.tex [39
 
 
 
 
 
-]) [35]
+]) [40]
 \openout2 = `11-appendix-A.aux'.
 
  (11-appendix-A.tex
 Appendix A.
-<figures/clusters/cv_cluster1.png, id=483, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster1.png, id=530, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster1.png Graphic file (type png)
 <use figures/clusters/cv_cluster1.png>
 Package pdftex.def Info: figures/clusters/cv_cluster1.png  used on input line 1
 1.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster2.png, id=484, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster2.png, id=531, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster2.png Graphic file (type png)
 <use figures/clusters/cv_cluster2.png>
 Package pdftex.def Info: figures/clusters/cv_cluster2.png  used on input line 1
 3.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster3.png, id=485, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster3.png, id=532, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster3.png Graphic file (type png)
 <use figures/clusters/cv_cluster3.png>
 Package pdftex.def Info: figures/clusters/cv_cluster3.png  used on input line 1
 5.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster4.png, id=486, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster4.png, id=533, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster4.png Graphic file (type png)
 <use figures/clusters/cv_cluster4.png>
 Package pdftex.def Info: figures/clusters/cv_cluster4.png  used on input line 1
 7.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster5.png, id=487, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster5.png, id=534, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster5.png Graphic file (type png)
 <use figures/clusters/cv_cluster5.png>
 Package pdftex.def Info: figures/clusters/cv_cluster5.png  used on input line 1
 9.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster6.png, id=488, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster6.png, id=535, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster6.png Graphic file (type png)
 <use figures/clusters/cv_cluster6.png>
 Package pdftex.def Info: figures/clusters/cv_cluster6.png  used on input line 2
 1.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster7.png, id=489, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster7.png, id=536, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster7.png Graphic file (type png)
 <use figures/clusters/cv_cluster7.png>
 Package pdftex.def Info: figures/clusters/cv_cluster7.png  used on input line 2
 3.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster8.png, id=490, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster8.png, id=537, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster8.png Graphic file (type png)
 <use figures/clusters/cv_cluster8.png>
 Package pdftex.def Info: figures/clusters/cv_cluster8.png  used on input line 2
 5.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster9.png, id=491, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster9.png, id=538, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster9.png Graphic file (type png)
 <use figures/clusters/cv_cluster9.png>
 Package pdftex.def Info: figures/clusters/cv_cluster9.png  used on input line 2
 7.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster10.png, id=492, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster10.png, id=539, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster10.png Graphic file (type png)
 <use figures/clusters/cv_cluster10.png>
 Package pdftex.def Info: figures/clusters/cv_cluster10.png  used on input line 
 29.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster11.png, id=493, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster11.png, id=540, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster11.png Graphic file (type png)
 <use figures/clusters/cv_cluster11.png>
 Package pdftex.def Info: figures/clusters/cv_cluster11.png  used on input line 
 31.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster12.png, id=494, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster12.png, id=541, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster12.png Graphic file (type png)
 <use figures/clusters/cv_cluster12.png>
 Package pdftex.def Info: figures/clusters/cv_cluster12.png  used on input line 
 33.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster13.png, id=495, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster13.png, id=542, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster13.png Graphic file (type png)
 <use figures/clusters/cv_cluster13.png>
 Package pdftex.def Info: figures/clusters/cv_cluster13.png  used on input line 
 35.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster14.png, id=496, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster14.png, id=543, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster14.png Graphic file (type png)
 <use figures/clusters/cv_cluster14.png>
 Package pdftex.def Info: figures/clusters/cv_cluster14.png  used on input line 
 37.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster15.png, id=497, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster15.png, id=544, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster15.png Graphic file (type png)
 <use figures/clusters/cv_cluster15.png>
 Package pdftex.def Info: figures/clusters/cv_cluster15.png  used on input line 
 39.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster16.png, id=498, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster16.png, id=545, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster16.png Graphic file (type png)
 <use figures/clusters/cv_cluster16.png>
 Package pdftex.def Info: figures/clusters/cv_cluster16.png  used on input line 
 41.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster17.png, id=499, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster17.png, id=546, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster17.png Graphic file (type png)
 <use figures/clusters/cv_cluster17.png>
 Package pdftex.def Info: figures/clusters/cv_cluster17.png  used on input line 
 43.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster18.png, id=500, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster18.png, id=547, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster18.png Graphic file (type png)
 <use figures/clusters/cv_cluster18.png>
 Package pdftex.def Info: figures/clusters/cv_cluster18.png  used on input line 
 45.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster19.png, id=501, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster19.png, id=548, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster19.png Graphic file (type png)
 <use figures/clusters/cv_cluster19.png>
 Package pdftex.def Info: figures/clusters/cv_cluster19.png  used on input line 
 47.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster20.png, id=502, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster20.png, id=549, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster20.png Graphic file (type png)
 <use figures/clusters/cv_cluster20.png>
 Package pdftex.def Info: figures/clusters/cv_cluster20.png  used on input line 
 49.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster21.png, id=503, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster21.png, id=550, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster21.png Graphic file (type png)
 <use figures/clusters/cv_cluster21.png>
 Package pdftex.def Info: figures/clusters/cv_cluster21.png  used on input line 
 51.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster22.png, id=504, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster22.png, id=551, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster22.png Graphic file (type png)
 <use figures/clusters/cv_cluster22.png>
 Package pdftex.def Info: figures/clusters/cv_cluster22.png  used on input line 
 53.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster23.png, id=505, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster23.png, id=552, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster23.png Graphic file (type png)
 <use figures/clusters/cv_cluster23.png>
 Package pdftex.def Info: figures/clusters/cv_cluster23.png  used on input line 
 55.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster24.png, id=506, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster24.png, id=553, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster24.png Graphic file (type png)
 <use figures/clusters/cv_cluster24.png>
 Package pdftex.def Info: figures/clusters/cv_cluster24.png  used on input line 
 57.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster25.png, id=507, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster25.png, id=554, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster25.png Graphic file (type png)
 <use figures/clusters/cv_cluster25.png>
 Package pdftex.def Info: figures/clusters/cv_cluster25.png  used on input line 
 59.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster26.png, id=508, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster26.png, id=555, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster26.png Graphic file (type png)
 <use figures/clusters/cv_cluster26.png>
 Package pdftex.def Info: figures/clusters/cv_cluster26.png  used on input line 
 61.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster27.png, id=509, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster27.png, id=556, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster27.png Graphic file (type png)
 <use figures/clusters/cv_cluster27.png>
 Package pdftex.def Info: figures/clusters/cv_cluster27.png  used on input line 
 63.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster28.png, id=510, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster28.png, id=557, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster28.png Graphic file (type png)
 <use figures/clusters/cv_cluster28.png>
 Package pdftex.def Info: figures/clusters/cv_cluster28.png  used on input line 
 65.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster29.png, id=511, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster29.png, id=558, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster29.png Graphic file (type png)
 <use figures/clusters/cv_cluster29.png>
 Package pdftex.def Info: figures/clusters/cv_cluster29.png  used on input line 
 67.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster30.png, id=512, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster30.png, id=559, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster30.png Graphic file (type png)
 <use figures/clusters/cv_cluster30.png>
 Package pdftex.def Info: figures/clusters/cv_cluster30.png  used on input line 
 69.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster31.png, id=513, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster31.png, id=560, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster31.png Graphic file (type png)
 <use figures/clusters/cv_cluster31.png>
 Package pdftex.def Info: figures/clusters/cv_cluster31.png  used on input line 
 71.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster32.png, id=514, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster32.png, id=561, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster32.png Graphic file (type png)
 <use figures/clusters/cv_cluster32.png>
 Package pdftex.def Info: figures/clusters/cv_cluster32.png  used on input line 
 73.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster33.png, id=515, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster33.png, id=562, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster33.png Graphic file (type png)
 <use figures/clusters/cv_cluster33.png>
 Package pdftex.def Info: figures/clusters/cv_cluster33.png  used on input line 
 75.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster34.png, id=516, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster34.png, id=563, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster34.png Graphic file (type png)
 <use figures/clusters/cv_cluster34.png>
 Package pdftex.def Info: figures/clusters/cv_cluster34.png  used on input line 
 77.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster35.png, id=517, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster35.png, id=564, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster35.png Graphic file (type png)
 <use figures/clusters/cv_cluster35.png>
 Package pdftex.def Info: figures/clusters/cv_cluster35.png  used on input line 
 79.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster36.png, id=518, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster36.png, id=565, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster36.png Graphic file (type png)
 <use figures/clusters/cv_cluster36.png>
 Package pdftex.def Info: figures/clusters/cv_cluster36.png  used on input line 
 81.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-<figures/clusters/cv_cluster37.png, id=519, 2275.7823pt x 253.6677pt>
+<figures/clusters/cv_cluster37.png, id=566, 2275.7823pt x 253.6677pt>
 File: figures/clusters/cv_cluster37.png Graphic file (type png)
 <use figures/clusters/cv_cluster37.png>
 Package pdftex.def Info: figures/clusters/cv_cluster37.png  used on input line 
 83.
 (pdftex.def)             Requested size: 433.62001pt x 48.33282pt.
-<figures/clusters/cv_cluster38.png, id=520, 2282.2866pt x 258.0039pt>
+<figures/clusters/cv_cluster38.png, id=567, 2282.2866pt x 258.0039pt>
 File: figures/clusters/cv_cluster38.png Graphic file (type png)
 <use figures/clusters/cv_cluster38.png>
 Package pdftex.def Info: figures/clusters/cv_cluster38.png  used on input line 
 85.
 (pdftex.def)             Requested size: 433.62001pt x 49.0173pt.
-) [36
+) [41
 
 
 
 
  <./figures/clusters/cv_cluster1.png> <./figures/clusters/cv_cluster2.png> <./f
 igures/clusters/cv_cluster3.png> <./figures/clusters/cv_cluster4.png> <./figure
-s/clusters/cv_cluster5.png> <./figures/clusters/cv_cluster6.png>] [37 <./figure
+s/clusters/cv_cluster5.png> <./figures/clusters/cv_cluster6.png>] [42 <./figure
 s/clusters/cv_cluster7.png> <./figures/clusters/cv_cluster8.png> <./figures/clu
 sters/cv_cluster9.png> <./figures/clusters/cv_cluster10.png> <./figures/cluster
 s/cv_cluster11.png> <./figures/clusters/cv_cluster12.png> <./figures/clusters/c
-v_cluster13.png> <./figures/clusters/cv_cluster14.png>] [38 <./figures/clusters
+v_cluster13.png> <./figures/clusters/cv_cluster14.png>] [43 <./figures/clusters
 /cv_cluster15.png> <./figures/clusters/cv_cluster16.png> <./figures/clusters/cv
 _cluster17.png> <./figures/clusters/cv_cluster18.png> <./figures/clusters/cv_cl
 uster19.png> <./figures/clusters/cv_cluster20.png> <./figures/clusters/cv_clust
-er21.png>] [39 <./figures/clusters/cv_cluster22.png> <./figures/clusters/cv_clu
+er21.png>] [44 <./figures/clusters/cv_cluster22.png> <./figures/clusters/cv_clu
 ster23.png> <./figures/clusters/cv_cluster24.png> <./figures/clusters/cv_cluste
 r25.png> <./figures/clusters/cv_cluster26.png> <./figures/clusters/cv_cluster27
 .png> <./figures/clusters/cv_cluster28.png> <./figures/clusters/cv_cluster29.pn
-g>] [40 <./figures/clusters/cv_cluster30.png> <./figures/clusters/cv_cluster31.
+g>] [45 <./figures/clusters/cv_cluster30.png> <./figures/clusters/cv_cluster31.
 png> <./figures/clusters/cv_cluster32.png> <./figures/clusters/cv_cluster33.png
 > <./figures/clusters/cv_cluster34.png> <./figures/clusters/cv_cluster35.png> <
-./figures/clusters/cv_cluster36.png> <./figures/clusters/cv_cluster37.png>] [41
+./figures/clusters/cv_cluster36.png> <./figures/clusters/cv_cluster37.png>] [46
  <./figures/clusters/cv_cluster38.png>] (00-main.aux (01-title.aux)
 (02-abstract.aux) (05-chapter-1.aux) (06-chapter-2.aux) (07-chapter-3.aux)
 (08-chapter-4.aux) (09-chapter-5.aux) (10-references.aux) (11-appendix-A.aux))
@@ -2462,8 +2519,11 @@ L3 programming layer <2024-03-14>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `00-main.out' has not changed.
-(rerunfilecheck)             Checksum: 3BCD3AAA1D14D3DD7FBC19ACEAB3A08D;4765.
+(rerunfilecheck)             Checksum: 2082A4A39BD8F3B0F409DB35A156A4A5;4765.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                00-main
@@ -2474,10 +2534,10 @@ Package logreq Info: Writing requests to '00-main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49833 strings out of 474424
- 1008291 string characters out of 5741740
- 1943496 words of memory out of 5000000
- 71185 multiletter control sequences out of 15000+600000
+ 49882 strings out of 474424
+ 1009569 string characters out of 5741740
+ 1953496 words of memory out of 5000000
+ 71223 multiletter control sequences out of 15000+600000
  605307 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  92i,12n,95p,1914b,4307s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2494,9 +2554,9 @@ Users/immun/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Us
 ers/immun/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Us
 ers/immun/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Us
 ers/immun/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on 00-main.pdf (46 pages, 3305327 bytes).
+Output written on 00-main.pdf (51 pages, 3522602 bytes).
 PDF statistics:
- 678 PDF objects out of 1000 (max. 8388607)
- 127 named destinations out of 1000 (max. 500000)
- 544 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 726 PDF objects out of 1000 (max. 8388607)
+ 138 named destinations out of 1000 (max. 500000)
+ 564 words of extra memory for PDF output out of 10000 (max. 10000000)
 

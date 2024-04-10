@@ -10,11 +10,15 @@
 \contentsline {figure}{\numberline {2.7}{\ignorespaces Differential Pulse Voltammetry UMAP Projection}}{20}{figure.caption.11}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Classification Model Architecture}}{24}{figure.caption.12}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces CV Ligand ROC Curves}}{26}{figure.caption.15}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces CV Metal ROC Curves}}{27}{figure.caption.16}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces CV Metal Confusion Matrix}}{28}{figure.caption.17}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces CV Ligand Confusion Matrix}}{29}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces CV Ligand ROC Curves}}{29}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces CV Metal ROC Curves}}{29}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces DPV Ligand ROC Curves}}{30}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces DPV Metal ROC Curves}}{30}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces CV Ligand Confusion Matrix}}{31}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces CV Metal Confusion Matrix}}{32}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces DPV Ligand Confusion Matrix}}{33}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces DPV Metal Confusion Matrix}}{34}{figure.caption.24}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces AutoEncoder Results}}{31}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces AutoEncoder Results}}{36}{figure.caption.25}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
