@@ -101,6 +101,7 @@
 \usepackage[titletoc]{appendix}             % to manage appendix chapters
 \usepackage[american]{babel}                % for different language typography
 \usepackage{cleveref}
+\usepackage{pdfpages}
 
 %% bibliographic package (make sure your bib file is in BibLaTeX format)
 %% use Zotero or some other reference manager to generate the BibLaTeX file
@@ -129,6 +130,14 @@
 \usepackage{csquotes}                       % to manage quote environment
 
 \usepackage{listings}                       % to include codes
+
+\usepackage{afterpage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
 
 %% table related packages
 \usepackage{booktabs,longtable,makecell,multicol,multirow,tabularx,xltabular}
@@ -489,6 +498,7 @@ aboveskip=0.5cm}
 
 %% add abstract, dedication, and acknowledgment (and any other front matter)
 \include{02-abstract}
+\include{03-acknowledgement}
 
 %% single spacing is too cluttered and double spacing is too wide-spread
 \TOCTextSpacing                             % one-half spacing for the table of contents
@@ -515,8 +525,8 @@ aboveskip=0.5cm}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
 \fancyhead[L]{\chaptername\ \thechapter. \nouppercase \leftmark}
 
-
 %% include all the main text chapters
+\include{04-introduction}
 \include{05-chapter-1}
 \include{06-chapter-2}
 \include{07-chapter-3}
@@ -562,7 +572,7 @@ aboveskip=0.5cm}
 %%%%%%%%%%%%%%%%%%%%%%%%%%% END BACK MATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
+\afterpage{\blankpage}
 \end{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT ENDS HERE %%%%%%%%%%%%%%%%%%%%%%%%%%%

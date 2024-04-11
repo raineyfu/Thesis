@@ -6,22 +6,27 @@
 
 % remove the following and add your chapter text
 \section{Introduction}
-Classifying the experiments based on the metals and ligands used is explored to further demonstrate the feasibility of using this encoding technique for various machine learning tasks. An important insight to consider is the similarity between voltammetry data and images. After all, each point has a potential and current value, which is similar to an image's RGB values. The main difference is that an image is 2-dimensional while voltammetry data is 1-dimensional. Many previous works have used convolutional neural networks for classification tasks \cite{SHARMA2018377}. Using this as inspiration, the proposed model architecture for voltammetry data classification uses 1-dimensional convolutional layers.  
-It is important to note that the dataset used only contains 800 CV datapoints and 200 DPV datapoints for a total of 1000. For training, the dataset was split with 80\% for training, 10\% for validation, and 10\% for testing. 
+To further demonstrate the feasibility of using this encoding technique for various machine-learning tasks, a classifier is trained to predict what metals and ligands were used to generate each voltammogram. It is important to note that the dataset used is relatively small for a deep-learning task. For training, the dataset was split with 80\% for training, 10\% for validation, and 10\% for testing.  An important insight to consider is the similarity between voltammetry data and images. After all, each point has a potential and current value, which is similar to an image's RGB values. The main difference is that an image is 2-dimensional while voltammetry data is 1-dimensional. Many previous works have used convolutional neural networks for classification tasks \cite{SHARMA2018377}. Using this as inspiration, the proposed model architecture for voltammetry data classification uses 1-dimensional convolutional layers. 
 \section{Variational Autoencoders}
-Since one of the large challenges faced is the dataset size, one method to address this is to create synthetic data. 
-A variational autoencoder (VAE) is similar to an autoencoder neural network architecture with the main difference being that VAEs connects the encoder to its decoder through a probabilistic latent space that corresponds to the parameters of a variational distribution \cite{PinheiroCinelli2021}. The encoder maps each point from the dataset into a distribution within the latent space rather than a single point in that space. The distribution is typically Gaussian with a mean and a variance. Once the VAE is trained, different points can be sampled from the learned latent space distribution. These samples represent different configurations of the input data in the latent space. The sampled points from the latent space are then fed into the decoder network, which generates reconstructions of the input data corresponding to those points. By sampling multiple points from the latent space and decoding them, a diverse set of synthetic data samples that resemble the original data distribution is generated. The variability in the latent space allows for the generation of novel and diverse data samples that capture the underlying characteristics of the training data.
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=1.0\textwidth]{figures/autoencoder_architecture.png}
+    \caption{Autoencoder Diagram}
+    \label{autoencoder_diagram}
+\end{figure}
+Since one of the major challenges faced is the dataset size, one method to address this is to create synthetic data. 
+A variational autoencoder (VAE) is similar to the autoencoder neural network architecture shown in Figure \ref{autoencoder_diagram}, with the main difference being that VAEs connects the encoder to its decoder through a probabilistic latent space that corresponds to the parameters of a variational distribution \cite{PinheiroCinelli2021}. The encoder maps each point from the dataset into a distribution within the latent space rather than a single point in that space. The distribution is typically Gaussian with a mean and a variance. Once the VAE is trained, different points can be sampled from the learned latent space distribution. These samples represent different configurations of the input data in the latent space. The sampled points from the latent space are then fed into the decoder network, which generates reconstructions of the input data corresponding to those points. By sampling multiple points from the latent space and decoding them, a diverse set of synthetic data samples that resemble the original data distribution is generated. The variability in the latent space allows for the generation of novel and diverse data samples that capture the underlying characteristics of the training data.
 \section{Conditional Variational Autoencoders}
 While traditional VAEs learn a latent space for the dataset, conditional variational autoencoders (CVAEs) expand this concept by introducing conditional dependencies between the input data and the latent variables. In the context of generating synthetic data, CVAEs offer a more controlled approach by allowing the generation process to be conditioned on additional information, such as class labels or other attributes associated with the data.
-By conditioning the generation process on known attributes or labels, CVAEs can generate synthetic data samples that not only capture the underlying data distribution but also adhere to specific conditions or constraints defined by the conditioning variables. This enables targeted generation of synthetic data for different classes or categories, even in the absence of labeled data. In this case, the metal and ligand are encoded using one-hot encoding and passed to the decoder to generate data belonging to the same class. 
+By conditioning the generation process on known attributes or labels, CVAEs can generate synthetic data samples that not only capture the underlying data distribution but also adhere to specific conditions or constraints defined by the conditioning variables. This enables the targeted generation of synthetic data for different classes or categories, even in the absence of labeled data. In this case, the metal and ligand are encoded using one-hot encoding and passed to the decoder to generate data belonging to the same class. 
 \section{Classifier Model Architecture}
-The model consists of several convolutional layers followed by max-poolling layers to encode the data and reduce dimensions. All layers except for the output layer use the ReLU activation function. The output layer is a dense layer with 10 units and softmax activation function. The Adam optimizer and categorical cross-entropy loss are used to train the model. Additionally, the model uses L2 regularization and early stopping to prevent overfitting and ensure smooth convergence. The Glorot uniform initializer is used for weight initialization to facilitate better gradient flow and prevent exploding gradients. 
 \begin{figure}[!h]
   \centering
     \includegraphics[width=0.25\textwidth]{figures/model_architecture.png}
     \caption{Classification Model Architecture}
     \label{model_arch}
 \end{figure}
+The classifier architecture can be seen in Figure \ref{model_arch}. The model consists of several convolutional layers followed by max-pooling layers to encode the data and reduce dimensions. All layers except for the output layer use the ReLU activation function. The output layer is a dense layer with 10 units and a softmax activation function. The Adam optimizer and categorical cross-entropy loss are used to train the model. Additionally, the model uses L2 regularization and early stopping to prevent overfitting and ensure smooth convergence. The Glorot uniform initializer is used for weight initialization to facilitate better gradient flow and prevent exploding gradients. 
 \section{Results and Discussion}
 \begin{table}[!h]
 \begin{center}
@@ -31,12 +36,14 @@ Model & Accuracy (\%) \\
 CV Ligands & 75.13\% \\
 CV Metals & 79.24\% \\
 DPV Ligands & 30.00\% \\
-DPV Metals & 15.87\%
+DPV Metals & 25.00\%
 \end{tabular}
 \caption{Classification Results}
+\label{classification_results}
 \end{center}
 \end{table}
-The accuracy of the classifiers were much better for the CV data compared to the DPV data. This difference can likely be attributed to the size of the datasets. 
+Separate classifiers were trained each with a unique task of classifying CV ligands, CV metals, DPV ligands, and DPV metals. 
+The accuracy of the classifiers can be seen in Table \ref{classification_results} and the results were much better for the CV data compared to the DPV data. This difference can likely be attributed to the size of the datasets. 
 \begin{table}[!h]
 \begin{center}
 \begin{tabular}{c|c}
@@ -44,13 +51,14 @@ Model & Accuracy (\%) \\
 \hline
 CV Ligands & 77.86\% \\
 CV Metals & 85.00\% \\
-DPV Ligands & 29.34\% \\
-DPV Metals & 13.85\%
+DPV Ligands & 25.00\% \\
+DPV Metals & 25.00\%
 \end{tabular}
 \caption{Classification Accuracy with Synthetic Data}
+\label{vae_classification_results}
 \end{center}
 \end{table}
-Similarly after incorporating synthetic data generated with the CVAE into the training process, there was an significant improvement in accuracy for classifying CV data. However, the DPV classifiers actually saw a decrease in performance. Again, this is likely due to the size of the dataset. In utilizing Variational Autoencoders (VAEs) to generate synthetic data, several key considerations impact classifier performance, especially when dealing with small datasets. Firstly, the quality and diversity of the original data influence the effectiveness of the synthetic data produced by VAEs. With limited variation or complexity in a small dataset, the VAE might struggle to capture the true underlying data distribution accurately, potentially resulting in synthetic data that fails to fully represent the characteristics of the real data. This mismatch can detrimentally affect classifier performance. Additionally, the risk of overfitting is heightened in small datasets, where the classifier may excessively specialize on training data patterns that do not generalize well. Introducing synthetic data from a VAE can compound this issue if the VAE itself overfits to the small dataset, producing synthetic data overly similar to the training data, which provides minimal additional information for the classifier and can lead to decreased performance on unseen data. VAEs implicitly learn the probability distribution of the input data. However, if the distribution of the real data is significantly different from the distribution learned by the VAE due to the small dataset size, the synthetic data generated by the VAE may not accurately represent the true data distribution. This distribution mismatch can confuse the classifier, as it may encounter data points in the synthetic dataset that deviate from the real data distribution, leading to suboptimal performance.
+After incorporating synthetic data generated with the CVAE into the training process, there was a significant improvement in accuracy for classifying CV data as seen in Table \ref{vae_classification_results}. However, the DPV ligands classifier actually saw a decrease in performance. Again, this is likely due to the size of the dataset. In utilizing VAEs to generate synthetic data, several key considerations impact classifier performance, especially when dealing with small datasets. Firstly, the quality and diversity of the original data influence the effectiveness of the synthetic data produced by VAEs. With limited variation or complexity in a small dataset, the VAE might struggle to capture the true underlying data distribution accurately, potentially resulting in synthetic data that fails to fully represent the characteristics of the real data. This mismatch can detrimentally affect classifier performance. Additionally, the risk of overfitting is heightened in small datasets, where the classifier may excessively specialize in training data patterns that do not generalize well. Introducing synthetic data from a VAE can compound this issue if the VAE itself overfits the small dataset, producing synthetic data overly similar to the training data, which provides minimal additional information for the classifier and can lead to decreased performance on unseen data. VAEs implicitly learn the probability distribution of the input data. However, if the distribution of the real data is significantly different from the distribution learned by the VAE due to the small dataset size, the synthetic data generated by the VAE may not accurately represent the true data distribution. This distribution mismatch can confuse the classifier, as it may encounter data points in the synthetic dataset that deviate from the real data distribution, leading to suboptimal performance.
 \begin{table}[!h]
 \begin{center}
 \begin{tabular}{c|c|c|c|c}
@@ -103,6 +111,55 @@ WeightedAvg & 0.80 & 0.78 & 0.78 & 80
 \end{center}
 \end{table}
 Table \ref{cv_metal_report} shows the classification report for classifying ligands. The classifier achieved an accuracy of 78\% overall, indicating its capability to classify different metal types to some extent. However, upon closer examination, there are notable variations in performance across metal types. For instance, Metal 6 demonstrates excellent precision, recall, and F1-score, suggesting the model's proficiency in accurately classifying this metal type. Conversely, Metal 4 exhibits lower precision, recall, and F1-score, indicating challenges in effectively distinguishing this metal type from others.
+\begin{table}[!h]
+\begin{center}
+\begin{tabular}{c|c|c|c|c}
+ & Precision & Recall & F1-Score & Support\\
+\hline
+Ligand 1 & 1.00 & 1.00 & 1.00 & 1\\
+Ligand 2 & 0.00 & 0.00 & 0.00 & 2\\
+Ligand 3 & 0.33 & 0.25 & 0.29 & 4\\
+Ligand 4 & 0.33 & 0.33 & 0.33 & 3\\
+Ligand 5 & 0.50 & 0.50 & 0.50 & 4\\
+Ligand 6 & 0.00 & 0.00 & 0.00 & 1\\
+Ligand 7 & 0.00 & 0.00 & 0.00 & 1\\
+Ligand 8 & 0.00 & 0.00 & 0.00 & 0\\
+Ligand 9 & 0.00 & 0.00 & 0.00 & 1\\
+Ligand 10 & 1.00 & 0.33 & 0.50 & 3\\
+\hline
+Accuracy & & & 0.30 & 20\\
+MacroAvg & 0.32 & 0.24 & 0.26 & 20\\
+WeightedAvg & 0.42 & 0.30 & 0.33 & 20
+\end{tabular}
+\caption{DPV Ligands Classification Report}
+\label{dpv_ligand_report}
+\end{center}
+\end{table}
+\begin{table}[!h]
+\begin{center}
+\begin{tabular}{c|c|c|c|c}
+ & Precision & Recall & F1-Score & Support\\
+\hline
+Ligand 1 & 0.33 & 1.00 & 0.50 & 2\\
+Ligand 2 & 0.00 & 0.00 & 0.00 & 1\\
+Ligand 3 & 0.25 & 0.50 & 0.33 & 2\\
+Ligand 4 & 0.00 & 0.00 & 0.00 & 3\\
+Ligand 5 & 0.00 & 0.00 & 0.00 & 1\\
+Ligand 6 & 0.50 & 0.25 & 0.33 & 4\\
+Ligand 7 & 0.00 & 0.00 & 0.00 & 2\\
+Ligand 8 & 1.00 & 0.50 & 0.67 & 2\\
+Ligand 9 & 0.00 & 0.00 & 0.00 & 3\\
+Ligand 10 & 0.00 & 0.00 & 0.00 & 0\\
+\hline
+Accuracy & & & 0.30 & 20\\
+MacroAvg & 0.23 & 0.25 & 0.20 & 20\\
+WeightedAvg & 0.26 & 0.25 & 0.22 & 20
+\end{tabular}
+\caption{DPV Metals Classification Report}
+\label{dpv_metal_report}
+\end{center}
+\end{table}
+Table \ref{dpv_ligand_report} and Table \ref{dpv_metal_report} show the classification reports for DPV ligands and metals. However, it is difficult to draw definitive conclusions from this data due to the small sample size. To further assess the performance of these classification models, receiving operating characteristic (ROC) curves and area under the ROC curve (AUC) values can be used to gain valuable insights into the discrimination capabilities and robustness of the models when distinguishing between different metals and ligands. ROC curves and AUC values help assess the robustness of the classification model by showing how well it performs across different thresholds and levels of noise. A smooth ROC curve with a high AUC suggests that the model can reliably discriminate between different metals and ligands even in the presence of noise or variability. Furthermore, there may be a need to choose a classification threshold that balances sensitivity and specificity according to specific requirements or constraints. ROC curves provide a visual aid for selecting an appropriate threshold based on the desired trade-off between true positives and false positives. For example, when integrating with an SDL, minimizing false positives (misclassification of metals or ligands) might be prioritized over maximizing true positives.
 \begin{figure}[h!]
   \centering
     \includegraphics[width=1.0\textwidth]{figures/ligand_roc.png}
@@ -115,7 +172,7 @@ Table \ref{cv_metal_report} shows the classification report for classifying liga
     \caption{CV Metal ROC Curves}
     \label{metal_roc}
 \end{figure}
-The area under receiving operating characteristic (ROC) curve shows good results for both metals and ligands. The area under the ROC curve (AUC) calculation summarized the ROC curve analysis into a scalar value, which ranges between 0 and 1. The closer the AUC score to value 1, the better the application’s overall performance.
+In Figure \ref{ligand_roc} and Figure \ref{metal_roc} the ROC curves show good results for both metals and ligands. The area under the ROC curve (AUC) calculation summarized the ROC curve analysis into a scalar value, which ranges between 0 and 1. The closer the AUC score to value 1, the better the application’s overall performance.
 \begin{figure}[h!]
   \centering
     \includegraphics[width=1.0\textwidth]{figures/dpv_ligand_roc.png}
@@ -128,14 +185,22 @@ The area under receiving operating characteristic (ROC) curve shows good results
     \caption{DPV Metal ROC Curves}
     \label{dpv_metal_roc}
 \end{figure}
-In Figure \ref{dpv_ligand_roc} and Figure \ref{dpv_metal_roc}, the ROC curves show that the classifier outperform a random classifier by having a AUC value above 0.5. 
+In Figure \ref{dpv_ligand_roc} and Figure \ref{dpv_metal_roc}, the ROC curves show that the classifier outperforms a random classifier by having an AUC value above 0.5. 
 \begin{figure}[h!]
   \centering
     \includegraphics[width=1.0\textwidth]{figures/cv_ligand_matrix.png}
     \caption{CV Ligand Confusion Matrix}
     \label{cv_ligand_matrix}
 \end{figure}
-From the confusion matrix for ligands \ref{cv_ligand_matrix}, metal 7 was difficult to recognize and was often misclassified as metal 6. 
+The data itself may be causing issues for classification as some ligands and metals may be more difficult to distinguish than others. To investigate this, the confusion matrices are provided. 
+From the confusion matrix for ligands \ref{cv_ligand_matrix}, ligand 7 was often misclassified as metal 6.
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=1.0\textwidth]{figures/ligand_comparison.png}
+    \caption{Ligand 6 and Ligand 7 Voltammogram Comparison}
+    \label{ligand_comparison}
+\end{figure}
+However, this misclassification is understandable. As seen in Figure \ref{ligand_comparison}, the voltammograms for ligand 6 and ligand 7 are quite similar. 
 \begin{figure}[h!]
   \centering
     \includegraphics[width=1.0\textwidth]{figures/cv_metal_matrix.png}

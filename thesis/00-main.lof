@@ -1,24 +1,36 @@
 \babel@toc {american}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces K-Means Elbow Method}}{13}{figure.caption.5}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces CV Silhouette Method}}{14}{figure.caption.6}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces DPV Silhouette Method}}{14}{figure.caption.7}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Cyclic Voltammetry t-SNE Projection}}{17}{figure.caption.8}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Cyclic Voltammetry UMAP Projection}}{18}{figure.caption.9}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Differential Pulse Voltammetry t-SNE Projection}}{19}{figure.caption.10}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Differential Pulse Voltammetry UMAP Projection}}{20}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Schematic of Electrochemical Cell \blx@tocontentsinit {0}\cite {Elgrishi2018}}}{6}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Potentiostat Circuit Diagram}}{7}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Cyclic Voltammogram}}{9}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces DPV Voltammogram}}{11}{figure.caption.9}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Classification Model Architecture}}{24}{figure.caption.12}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces CV Ligand ROC Curves}}{29}{figure.caption.17}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces CV Metal ROC Curves}}{29}{figure.caption.18}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces DPV Ligand ROC Curves}}{30}{figure.caption.19}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces DPV Metal ROC Curves}}{30}{figure.caption.20}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces CV Ligand Confusion Matrix}}{31}{figure.caption.21}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces CV Metal Confusion Matrix}}{32}{figure.caption.22}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces DPV Ligand Confusion Matrix}}{33}{figure.caption.23}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces DPV Metal Confusion Matrix}}{34}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces CV K-Means Clustering Visualized}}{16}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces CV DBSCAN Clustering Visualized}}{18}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces RDP Algorithm}}{22}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Raw Data and Processed Data}}{24}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces K-Means Elbow Method}}{25}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces CV Silhouette Method}}{26}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces DPV Silhouette Method}}{26}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces DBSCAN Clusters}}{27}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Cyclic Voltammetry t-SNE Projection}}{30}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Differential Pulse Voltammetry t-SNE Projection}}{31}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Cyclic Voltammetry UMAP Projection}}{32}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Differential Pulse Voltammetry UMAP Projection}}{33}{figure.caption.21}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces AutoEncoder Results}}{36}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Autoencoder Diagram}}{35}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Classification Model Architecture}}{37}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces CV Ligand ROC Curves}}{44}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces CV Metal ROC Curves}}{44}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces DPV Ligand ROC Curves}}{45}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces DPV Metal ROC Curves}}{45}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces CV Ligand Confusion Matrix}}{46}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Ligand 6 and Ligand 7 Voltammogram Comparison}}{47}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces CV Metal Confusion Matrix}}{48}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces DPV Ligand Confusion Matrix}}{49}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces DPV Metal Confusion Matrix}}{50}{figure.caption.38}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces AutoEncoder Results}}{53}{figure.caption.39}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

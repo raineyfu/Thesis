@@ -19,357 +19,83 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{Faraday_1970}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=1b15e6fbb339db38dc0fdc09928f1a3e}{%
-           family={Faraday},
-           familyi={F\bibinitperiod},
-           given={Michael;Royal\bibnamedelimb Society\bibnamedelimb (Great\bibnamedelima Britain)},
-           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {The Royal Society}%
-      }
-      \strng{namehash}{1b15e6fbb339db38dc0fdc09928f1a3e}
-      \strng{fullhash}{1b15e6fbb339db38dc0fdc09928f1a3e}
-      \strng{fullhashraw}{1b15e6fbb339db38dc0fdc09928f1a3e}
-      \strng{bibnamehash}{1b15e6fbb339db38dc0fdc09928f1a3e}
-      \strng{authorbibnamehash}{1b15e6fbb339db38dc0fdc09928f1a3e}
-      \strng{authornamehash}{1b15e6fbb339db38dc0fdc09928f1a3e}
-      \strng{authorfullhash}{1b15e6fbb339db38dc0fdc09928f1a3e}
-      \strng{authorfullhashraw}{1b15e6fbb339db38dc0fdc09928f1a3e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Faraday, Michael;Royal Society (Great Britain)}
-      \field{month}{1}
-      \field{title}{On electro-chemical decomposition}
-      \field{year}{1970}
-      \verb{urlraw}
-      \verb https://library.si.edu/digital-library/book/onelectrochemica00fara
-      \endverb
-      \verb{url}
-      \verb https://library.si.edu/digital-library/book/onelectrochemica00fara
-      \endverb
-    \endentry
-    \entry{goldbook}{article}{}{}
-      \list{institution}{2}{%
-        {International Union of Pure}%
-        {Applied Chemistry (IUPAC)}%
-      }
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labeltitlesource}{title}
-      \field{edition}{3.0.1}
-      \field{title}{electrode potential}
-      \field{year}{2019}
-      \verb{doi}
-      \verb doi:10.1351/goldbook.E01956
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1351/goldbook.E01956
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1351/goldbook.E01956
-      \endverb
-    \endentry
-    \entry{doi:10.1021/ac60210a007}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=478f584e3d44ab1adb4ea0e16908df0f}{%
-           family={Nicholson},
-           familyi={N\bibinitperiod},
-           given={R.\bibnamedelimi S.},
-           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=08509d0ea1dd1826728d00f473fb6c49}{%
-           family={Shain},
-           familyi={S\bibinitperiod},
-           given={Irving.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{f29b5148fb9ea061928048635cd40155}
-      \strng{fullhash}{f29b5148fb9ea061928048635cd40155}
-      \strng{fullhashraw}{f29b5148fb9ea061928048635cd40155}
-      \strng{bibnamehash}{f29b5148fb9ea061928048635cd40155}
-      \strng{authorbibnamehash}{f29b5148fb9ea061928048635cd40155}
-      \strng{authornamehash}{f29b5148fb9ea061928048635cd40155}
-      \strng{authorfullhash}{f29b5148fb9ea061928048635cd40155}
-      \strng{authorfullhashraw}{f29b5148fb9ea061928048635cd40155}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Analytical Chemistry}
-      \field{number}{4}
-      \field{title}{Theory of Stationary Electrode Polarography. Single Scan and Cyclic Methods Applied to Reversible, Irreversible, and Kinetic Systems.}
-      \field{volume}{36}
-      \field{year}{1964}
-      \field{pages}{706\bibrangedash 723}
-      \range{pages}{18}
-      \verb{doi}
-      \verb 10.1021/ac60210a007
-      \endverb
-      \verb{eprint}
-      \verb https://doi.org/10.1021/ac60210a007
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1021/ac60210a007
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1021/ac60210a007
-      \endverb
-    \endentry
-    \entry{https://doi.org/10.1002/anie.198408313}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=dde49493161eae34b53d468c0c5739db}{%
-           family={Heinze},
-           familyi={H\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{dde49493161eae34b53d468c0c5739db}
-      \strng{fullhash}{dde49493161eae34b53d468c0c5739db}
-      \strng{fullhashraw}{dde49493161eae34b53d468c0c5739db}
-      \strng{bibnamehash}{dde49493161eae34b53d468c0c5739db}
-      \strng{authorbibnamehash}{dde49493161eae34b53d468c0c5739db}
-      \strng{authornamehash}{dde49493161eae34b53d468c0c5739db}
-      \strng{authorfullhash}{dde49493161eae34b53d468c0c5739db}
-      \strng{authorfullhashraw}{dde49493161eae34b53d468c0c5739db}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Abstract Polarography is still the best known classical measuring method in electroanalytical chemistry. However, in recent years its position has been challenged by cyclic voltammetry (CV). Simple diagnostic criteria and relatively easily acquired measuring techniques have hastened this development. Cyclic voltammetry has the further attraction of providing information not only on the thermodynamics of redox processes but also on the kinetics of heterogeneous electron-transfer reactions and coupled chemical reactions. The characteristic shapes of the voltammetric waves and their unequivocal position on the potential scale virtually fingerprint the individual electrochemical properties of redox systems. For this reason the method has been labeled “electrochemical spectroscopy”.}
-      \field{journaltitle}{Angewandte Chemie International Edition in English}
-      \field{number}{11}
-      \field{title}{Cyclic Voltammetry—“Electrochemical Spectroscopy”. New Analytical Methods (25)}
-      \field{volume}{23}
-      \field{year}{1984}
-      \field{pages}{831\bibrangedash 847}
-      \range{pages}{17}
-      \verb{doi}
-      \verb https://doi.org/10.1002/anie.198408313
-      \endverb
-      \verb{eprint}
-      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.198408313
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.198408313
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.198408313
-      \endverb
-      \keyw{Electrochemical spectroscopy,Analytical methods,Cyclic voltammetry}
-    \endentry
-    \entry{Libretexts_2023}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=6fb40136cd23d743f66e466e9a9b1d1f}{%
-           family={Libretexts},
-           familyi={L\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Libretexts}%
-      }
-      \strng{namehash}{6fb40136cd23d743f66e466e9a9b1d1f}
-      \strng{fullhash}{6fb40136cd23d743f66e466e9a9b1d1f}
-      \strng{fullhashraw}{6fb40136cd23d743f66e466e9a9b1d1f}
-      \strng{bibnamehash}{6fb40136cd23d743f66e466e9a9b1d1f}
-      \strng{authorbibnamehash}{6fb40136cd23d743f66e466e9a9b1d1f}
-      \strng{authornamehash}{6fb40136cd23d743f66e466e9a9b1d1f}
-      \strng{authorfullhash}{6fb40136cd23d743f66e466e9a9b1d1f}
-      \strng{authorfullhashraw}{6fb40136cd23d743f66e466e9a9b1d1f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Chemistry LibreTexts}
-      \field{month}{8}
-      \field{title}{Cyclic voltammetry}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Cyclic_Voltammetry
-      \endverb
-      \verb{url}
-      \verb https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Cyclic_Voltammetry
-      \endverb
-    \endentry
-    \entry{GRIMSHAW20001}{incollection}{}{}
-      \name{author}{1}{}{%
-        {{hash=bd3db3fd71790717452956ec8de54b2f}{%
-           family={Grimshaw},
-           familyi={G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=bd3db3fd71790717452956ec8de54b2f}{%
-           family={Grimshaw},
-           familyi={G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Amsterdam}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier Science B.V.}%
-      }
-      \strng{namehash}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{fullhash}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{fullhashraw}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{bibnamehash}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{authorbibnamehash}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{authornamehash}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{authorfullhash}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{authorfullhashraw}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{editorbibnamehash}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{editornamehash}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{editorfullhash}{bd3db3fd71790717452956ec8de54b2f}
-      \strng{editorfullhashraw}{bd3db3fd71790717452956ec8de54b2f}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Electrochemical Reactions and Mechanisms in Organic Chemistry}
-      \field{isbn}{978-0-444-72007-8}
-      \field{title}{CHAPTER 1 - ELECTROCHEMICAL OXIDATION AND REDUCTION OF ORGANIC COMPOUNDS}
-      \field{year}{2000}
-      \field{pages}{1\bibrangedash 26}
-      \range{pages}{26}
-      \verb{doi}
-      \verb https://doi.org/10.1016/B978-044472007-8/50001-X
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/B978044472007850001X
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/B978044472007850001X
-      \endverb
-    \endentry
-    \entry{Scholz2005-pa}{book}{}{}
-      \name{editor}{1}{}{%
-        {{hash=742446b6d4c6311d4215c0d6c25448b1}{%
-           family={Scholz},
-           familyi={S\bibinitperiod},
-           given={Fritz},
-           giveni={F\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{location}{1}{%
-        {Berlin, Germany}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{742446b6d4c6311d4215c0d6c25448b1}
-      \strng{fullhash}{742446b6d4c6311d4215c0d6c25448b1}
-      \strng{fullhashraw}{742446b6d4c6311d4215c0d6c25448b1}
-      \strng{bibnamehash}{742446b6d4c6311d4215c0d6c25448b1}
-      \strng{editorbibnamehash}{742446b6d4c6311d4215c0d6c25448b1}
-      \strng{editornamehash}{742446b6d4c6311d4215c0d6c25448b1}
-      \strng{editorfullhash}{742446b6d4c6311d4215c0d6c25448b1}
-      \strng{editorfullhashraw}{742446b6d4c6311d4215c0d6c25448b1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{edition}{1}
-      \field{month}{2}
-      \field{title}{Electroanalytical methods}
-      \field{year}{2005}
-    \endentry
-    \entry{J2002-fn}{book}{}{}
-      \name{author}{2}{}{%
-        {{hash=fd1be9a3f5ee0a0fd1a090516fa66cf9}{%
-           family={J.},
-           familyi={J\bibinitperiod},
-           given={Allen},
-           giveni={A\bibinitperiod}}}%
-        {{hash=5b4a8fac30606d30220e8a335d924716}{%
-           family={Faulkner},
-           familyi={F\bibinitperiod},
-           given={Larry\bibnamedelima R},
-           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{location}{1}{%
-        {Nashville, TN}%
-      }
-      \list{publisher}{1}{%
-        {John Wiley \& Sons}%
-      }
-      \strng{namehash}{c521678b4fda6ab2a2c342432c1c6509}
-      \strng{fullhash}{c521678b4fda6ab2a2c342432c1c6509}
-      \strng{fullhashraw}{c521678b4fda6ab2a2c342432c1c6509}
-      \strng{bibnamehash}{c521678b4fda6ab2a2c342432c1c6509}
-      \strng{authorbibnamehash}{c521678b4fda6ab2a2c342432c1c6509}
-      \strng{authornamehash}{c521678b4fda6ab2a2c342432c1c6509}
-      \strng{authorfullhash}{c521678b4fda6ab2a2c342432c1c6509}
-      \strng{authorfullhashraw}{c521678b4fda6ab2a2c342432c1c6509}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{2}
-      \field{title}{Student solutions manual to accompany electrochemical methods: Fundamentals and applicaitons, 2e}
-      \field{year}{2002}
-    \endentry
-    \entry{PabloGarca2024}{article}{}{}
-      \name{author}{11}{}{%
-        {{hash=a490ad9f87d143b7edc4f959f5df505e}{%
-           family={Pablo-García},
-           familyi={P\bibinithyphendelim G\bibinitperiod},
-           given={Sergio},
-           giveni={S\bibinitperiod}}}%
-        {{hash=3f199b57d5d4e464c699ce9945a7bf00}{%
-           family={García},
-           familyi={G\bibinitperiod},
-           given={Ángel},
-           giveni={Á\bibinitperiod}}}%
-        {{hash=4931deeea0b240fa1cc8bd9e9eb35d64}{%
-           family={Deniz\bibnamedelima Akkoc},
-           familyi={D\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={Gun},
+    \entry{Tom2024}{article}{}{}
+      \name{author}{16}{}{%
+        {{hash=4dbeea1e2712e8dc171dae6941aec8da}{%
+           family={Tom},
+           familyi={T\bibinitperiod},
+           given={Gary},
            giveni={G\bibinitperiod}}}%
-        {{hash=eb3bea1f8b026c65208408788818a4b6}{%
-           family={Sim},
+        {{hash=09d69549b9456dfb9809a592ef6369e4}{%
+           family={Schmid},
            familyi={S\bibinitperiod},
-           given={Malcolm},
-           giveni={M\bibinitperiod}}}%
+           given={Stefan\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=b23cc45eff8b0169b08194d9194c1678}{%
+           family={Baird},
+           familyi={B\bibinitperiod},
+           given={Sterling\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=a39e14b30fc12aef88508f8f8cbf9cfc}{%
            family={Cao},
            familyi={C\bibinitperiod},
            given={Yang},
            giveni={Y\bibinitperiod}}}%
-        {{hash=44139edf869be3f1084dd9ce10f5c52d}{%
-           family={Somers},
-           familyi={S\bibinitperiod},
-           given={Maxine},
-           giveni={M\bibinitperiod}}}%
-        {{hash=5ad5b77ed64f72da6a888df7fdc072a0}{%
-           family={Hattrick},
-           familyi={H\bibinitperiod},
-           given={Chance},
-           giveni={C\bibinitperiod}}}%
-        {{hash=dfd352b89f61c0ac9ef4814ddaf27954}{%
-           family={Yoshikawa},
-           familyi={Y\bibinitperiod},
-           given={Naruki},
-           giveni={N\bibinitperiod}}}%
-        {{hash=6b99e01e5e6551640d8263b13e657afd}{%
-           family={Dworschak},
+        {{hash=f2fc94d0878b4d52885586f67d5c51e8}{%
+           family={Darvish},
            familyi={D\bibinitperiod},
-           given={Dominik},
-           giveni={D\bibinitperiod}}}%
+           given={Kourosh},
+           giveni={K\bibinitperiod}}}%
         {{hash=8e8eb83f2afb0cdb4fa1e933aaff9d1f}{%
            family={Hao},
            familyi={H\bibinitperiod},
            given={Han},
            giveni={H\bibinitperiod}}}%
+        {{hash=944521c632ff3919a0de2e96b36f77e4}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={Stanley},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a490ad9f87d143b7edc4f959f5df505e}{%
+           family={Pablo-García},
+           familyi={P\bibinithyphendelim G\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=84f61870b74e28f92f877ba466c9446f}{%
+           family={Rajaonson},
+           familyi={R\bibinitperiod},
+           given={Ella\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7d9faa9e5da0527f0b134e4762f55473}{%
+           family={Skreta},
+           familyi={S\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dfd352b89f61c0ac9ef4814ddaf27954}{%
+           family={Yoshikawa},
+           familyi={Y\bibinitperiod},
+           given={Naruki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=457117be5069a6a67f067484cb16f3d9}{%
+           family={Corapi},
+           familyi={C\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=938b4c3f3cf46b7b959785a677c24b6d}{%
+           family={Akkoc},
+           familyi={A\bibinitperiod},
+           given={Gun\bibnamedelima Deniz},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=da7a2dfc2585f9333f4560f96d0917b0}{%
+           family={Strieth-Kalthoff},
+           familyi={S\bibinithyphendelim K\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dfe80bd5883146aa31619d2bd22b4bc6}{%
+           family={Seifrid},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
         {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
            family={Aspuru-Guzik},
            familyi={A\bibinithyphendelim G\bibinitperiod},
@@ -379,29 +105,110 @@
       \list{publisher}{1}{%
         {American Chemical Society (ACS)}%
       }
-      \strng{namehash}{1a3921271a25f2890d39f822a71a389d}
-      \strng{fullhash}{208ba6ebd1144cf944bb09e3537c4ef9}
-      \strng{fullhashraw}{208ba6ebd1144cf944bb09e3537c4ef9}
-      \strng{bibnamehash}{1a3921271a25f2890d39f822a71a389d}
-      \strng{authorbibnamehash}{1a3921271a25f2890d39f822a71a389d}
-      \strng{authornamehash}{1a3921271a25f2890d39f822a71a389d}
-      \strng{authorfullhash}{208ba6ebd1144cf944bb09e3537c4ef9}
-      \strng{authorfullhashraw}{208ba6ebd1144cf944bb09e3537c4ef9}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \strng{namehash}{baaba6e3243f2d86bac7d269527b0634}
+      \strng{fullhash}{86672e45761489bfb46cedf184c60dbc}
+      \strng{fullhashraw}{86672e45761489bfb46cedf184c60dbc}
+      \strng{bibnamehash}{baaba6e3243f2d86bac7d269527b0634}
+      \strng{authorbibnamehash}{baaba6e3243f2d86bac7d269527b0634}
+      \strng{authornamehash}{baaba6e3243f2d86bac7d269527b0634}
+      \strng{authorfullhash}{86672e45761489bfb46cedf184c60dbc}
+      \strng{authorfullhashraw}{86672e45761489bfb46cedf184c60dbc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{2}
-      \field{title}{An affordable platform for automated synthesis and electrochemical characterization}
+      \field{month}{1}
+      \field{title}{Self-Driving Laboratories for Chemistry and Materials Science}
       \field{year}{2024}
       \verb{doi}
-      \verb 10.26434/chemrxiv-2024-cwnwc
+      \verb 10.26434/chemrxiv-2024-rj946
       \endverb
       \verb{urlraw}
-      \verb http://dx.doi.org/10.26434/chemrxiv-2024-cwnwc
+      \verb http://dx.doi.org/10.26434/chemrxiv-2024-rj946
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.26434/chemrxiv-2024-cwnwc
+      \verb http://dx.doi.org/10.26434/chemrxiv-2024-rj946
+      \endverb
+    \endentry
+    \entry{Hickman2023}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=b259e3add55fccf0fb633fc944b1fd27}{%
+           family={Hickman},
+           familyi={H\bibinitperiod},
+           given={Riley},
+           giveni={R\bibinitperiod}}}%
+        {{hash=eb3bea1f8b026c65208408788818a4b6}{%
+           family={Sim},
+           familyi={S\bibinitperiod},
+           given={Malcolm},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a490ad9f87d143b7edc4f959f5df505e}{%
+           family={Pablo-García},
+           familyi={P\bibinithyphendelim G\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fe2424539622c57dbd8d89d239c6b526}{%
+           family={Woolhouse},
+           familyi={W\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8e8eb83f2afb0cdb4fa1e933aaff9d1f}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f1aa30af2ac17d9c01d5548e5c914286}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Zeqing},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=379d631f4c1c099786c42161a5d03b3e}{%
+           family={Bannigan},
+           familyi={B\bibinitperiod},
+           given={Pauric},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9ed55e90391e4e3714be28e8e958f9fd}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2daa7a5d15261d416e162d193fe6140c}{%
+           family={Aldeghi},
+           familyi={A\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Alán},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{ce156cecdfa32e8131dc479518d5af6b}
+      \strng{fullhash}{701898e6e497dc990e4a010325e22c4d}
+      \strng{fullhashraw}{701898e6e497dc990e4a010325e22c4d}
+      \strng{bibnamehash}{ce156cecdfa32e8131dc479518d5af6b}
+      \strng{authorbibnamehash}{ce156cecdfa32e8131dc479518d5af6b}
+      \strng{authornamehash}{ce156cecdfa32e8131dc479518d5af6b}
+      \strng{authorfullhash}{701898e6e497dc990e4a010325e22c4d}
+      \strng{authorfullhashraw}{701898e6e497dc990e4a010325e22c4d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Atlas: A Brain for Self-driving Laboratories}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.26434/chemrxiv-2023-8nrxx
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.26434/chemrxiv-2023-8nrxx
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.26434/chemrxiv-2023-8nrxx
       \endverb
     \endentry
     \entry{StriethKalthoff2023}{article}{}{}
@@ -633,8 +440,8 @@
       \strng{authornamehash}{90010d474a437f1c14c3e2895d454f22}
       \strng{authorfullhash}{75d89b305d70584bd8d7c541c9edcfc1}
       \strng{authorfullhashraw}{75d89b305d70584bd8d7c541c9edcfc1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{9}
@@ -648,6 +455,563 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.26434/chemrxiv-2023-wqp0d
+      \endverb
+    \endentry
+    \entry{Faraday_1970}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1b15e6fbb339db38dc0fdc09928f1a3e}{%
+           family={Faraday},
+           familyi={F\bibinitperiod},
+           given={Michael;Royal\bibnamedelimb Society\bibnamedelimb (Great\bibnamedelima Britain)},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{1b15e6fbb339db38dc0fdc09928f1a3e}
+      \strng{fullhash}{1b15e6fbb339db38dc0fdc09928f1a3e}
+      \strng{fullhashraw}{1b15e6fbb339db38dc0fdc09928f1a3e}
+      \strng{bibnamehash}{1b15e6fbb339db38dc0fdc09928f1a3e}
+      \strng{authorbibnamehash}{1b15e6fbb339db38dc0fdc09928f1a3e}
+      \strng{authornamehash}{1b15e6fbb339db38dc0fdc09928f1a3e}
+      \strng{authorfullhash}{1b15e6fbb339db38dc0fdc09928f1a3e}
+      \strng{authorfullhashraw}{1b15e6fbb339db38dc0fdc09928f1a3e}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Faraday, Michael;Royal Society (Great Britain)}
+      \field{month}{1}
+      \field{title}{On electro-chemical decomposition}
+      \field{year}{1970}
+      \verb{urlraw}
+      \verb https://library.si.edu/digital-library/book/onelectrochemica00fara
+      \endverb
+      \verb{url}
+      \verb https://library.si.edu/digital-library/book/onelectrochemica00fara
+      \endverb
+    \endentry
+    \entry{goldbook}{article}{}{}
+      \list{institution}{2}{%
+        {International Union of Pure}%
+        {Applied Chemistry (IUPAC)}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{edition}{3.0.1}
+      \field{title}{electrode potential}
+      \field{year}{2019}
+      \verb{doi}
+      \verb doi:10.1351/goldbook.E01956
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1351/goldbook.E01956
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1351/goldbook.E01956
+      \endverb
+    \endentry
+    \entry{Elgrishi2018}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=354831287eacb8ef24bfee2530eb538b}{%
+           family={Elgrishi},
+           familyi={E\bibinitperiod},
+           given={Noémie},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f11ef98e3c933a65c12996e660b4505c}{%
+           family={Rountree},
+           familyi={R\bibinitperiod},
+           given={Kelley\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8162ceb914f5b176d168ac93e366e68b}{%
+           family={McCarthy},
+           familyi={M\bibinitperiod},
+           given={Brian\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=977c5307103c0683c53a24ea0f8ac1b7}{%
+           family={Rountree},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8a978925338627bede11aa4882ba5486}{%
+           family={Eisenhart},
+           familyi={E\bibinitperiod},
+           given={Thomas\bibnamedelima T.},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=ecf7649b76f4ae4d78f095b8e2a3e6ad}{%
+           family={Dempsey},
+           familyi={D\bibinitperiod},
+           given={Jillian\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{f23a671d237ce9e82b656171ce7bdf5e}
+      \strng{fullhash}{f23a671d237ce9e82b656171ce7bdf5e}
+      \strng{fullhashraw}{f23a671d237ce9e82b656171ce7bdf5e}
+      \strng{bibnamehash}{f23a671d237ce9e82b656171ce7bdf5e}
+      \strng{authorbibnamehash}{f23a671d237ce9e82b656171ce7bdf5e}
+      \strng{authornamehash}{f23a671d237ce9e82b656171ce7bdf5e}
+      \strng{authorfullhash}{f23a671d237ce9e82b656171ce7bdf5e}
+      \strng{authorfullhashraw}{f23a671d237ce9e82b656171ce7bdf5e}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0021-9584}
+      \field{journaltitle}{Journal of Chemical Education}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{A Practical Beginner's Guide to Cyclic Voltammetry}
+      \field{volume}{95}
+      \field{year}{2018}
+      \field{pages}{197\bibrangedash 206}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/acs.jchemed.7b00361
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/acs.jchemed.7b00361
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/acs.jchemed.7b00361
+      \endverb
+    \endentry
+    \entry{Zoski2006-zx}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=57b4b1d54c43e2a18b792cd7ae2c3afe}{%
+           family={Zoski},
+           familyi={Z\bibinitperiod},
+           given={Cynthia\bibnamedelima G},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science}%
+      }
+      \strng{namehash}{57b4b1d54c43e2a18b792cd7ae2c3afe}
+      \strng{fullhash}{57b4b1d54c43e2a18b792cd7ae2c3afe}
+      \strng{fullhashraw}{57b4b1d54c43e2a18b792cd7ae2c3afe}
+      \strng{bibnamehash}{57b4b1d54c43e2a18b792cd7ae2c3afe}
+      \strng{editorbibnamehash}{57b4b1d54c43e2a18b792cd7ae2c3afe}
+      \strng{editornamehash}{57b4b1d54c43e2a18b792cd7ae2c3afe}
+      \strng{editorfullhash}{57b4b1d54c43e2a18b792cd7ae2c3afe}
+      \strng{editorfullhashraw}{57b4b1d54c43e2a18b792cd7ae2c3afe}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Handbook of Electrochemistry}
+      \field{year}{2006}
+    \endentry
+    \entry{WAIN20211}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=6fedb68beac3c72491927f83b2fbf3fb}{%
+           family={Wain},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d9444e835cefb81c9f7b90a4791f8998}{%
+           family={Dickinson},
+           familyi={D\bibinitperiod},
+           given={Edmund\bibnamedelima J.F.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=6fedb68beac3c72491927f83b2fbf3fb}{%
+           family={Wain},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d9444e835cefb81c9f7b90a4791f8998}{%
+           family={Dickinson},
+           familyi={D\bibinitperiod},
+           given={Edmund\bibnamedelima J.F.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{fullhash}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{fullhashraw}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{bibnamehash}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{authorbibnamehash}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{authornamehash}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{authorfullhash}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{authorfullhashraw}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{editorbibnamehash}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{editornamehash}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{editorfullhash}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \strng{editorfullhashraw}{1efdfe08e8ecfb7b77310129fc8b44d6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This chapter presents a tutorial introduction to nanoscale electrochemistry, addressing general underlying principles, theoretical approaches and practical considerations that are essential for studying nanoelectrochemical systems. We begin with an account of fundamental physical length scales in electrochemistry, with an emphasis on phenomena that make nanoelectrochemical measurements and their interpretation qualitatively distinct from those at larger scales. This includes modified diffusional phenomena, the increased relative significance of the electrical double layer, stochastic treatment of single entity events, unique surface atomic arrangements, nanoconfinement, quantum effects, and altered optical properties. We then give an overview of the fundamental theory of nanoscale electrochemistry, describing how standard theoretical and modeling approaches must be modified or refined to account for characteristic behavior at such small length scales. Finally, we give a general instructive account of some of the key practical challenges that are commonly encountered when performing experimental measurements on nanoelectrochemical systems.}
+      \field{booktitle}{Nanoscale Electrochemistry}
+      \field{issn}{1876-2778}
+      \field{series}{Frontiers of Nanoscience}
+      \field{title}{Chapter 1 - Nanoscale characteristics of electrochemical systems}
+      \field{volume}{18}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 48}
+      \range{pages}{48}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-12-820055-1.00008-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780128200551000083
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780128200551000083
+      \endverb
+      \keyw{Double layer,Mass transport,Electron transfer,Nanoconfinement,Stochastic electrochemistry,Nanoelectrode,Nanoparticle ensembles,Nanoporous structures,Nanoelectrochemical measurements}
+    \endentry
+    \entry{doi:10.1021/ac60210a007}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=478f584e3d44ab1adb4ea0e16908df0f}{%
+           family={Nicholson},
+           familyi={N\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=08509d0ea1dd1826728d00f473fb6c49}{%
+           family={Shain},
+           familyi={S\bibinitperiod},
+           given={Irving.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{f29b5148fb9ea061928048635cd40155}
+      \strng{fullhash}{f29b5148fb9ea061928048635cd40155}
+      \strng{fullhashraw}{f29b5148fb9ea061928048635cd40155}
+      \strng{bibnamehash}{f29b5148fb9ea061928048635cd40155}
+      \strng{authorbibnamehash}{f29b5148fb9ea061928048635cd40155}
+      \strng{authornamehash}{f29b5148fb9ea061928048635cd40155}
+      \strng{authorfullhash}{f29b5148fb9ea061928048635cd40155}
+      \strng{authorfullhashraw}{f29b5148fb9ea061928048635cd40155}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Analytical Chemistry}
+      \field{number}{4}
+      \field{title}{Theory of Stationary Electrode Polarography. Single Scan and Cyclic Methods Applied to Reversible, Irreversible, and Kinetic Systems.}
+      \field{volume}{36}
+      \field{year}{1964}
+      \field{pages}{706\bibrangedash 723}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1021/ac60210a007
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ac60210a007
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ac60210a007
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ac60210a007
+      \endverb
+    \endentry
+    \entry{https://doi.org/10.1002/anie.198408313}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=dde49493161eae34b53d468c0c5739db}{%
+           family={Heinze},
+           familyi={H\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{dde49493161eae34b53d468c0c5739db}
+      \strng{fullhash}{dde49493161eae34b53d468c0c5739db}
+      \strng{fullhashraw}{dde49493161eae34b53d468c0c5739db}
+      \strng{bibnamehash}{dde49493161eae34b53d468c0c5739db}
+      \strng{authorbibnamehash}{dde49493161eae34b53d468c0c5739db}
+      \strng{authornamehash}{dde49493161eae34b53d468c0c5739db}
+      \strng{authorfullhash}{dde49493161eae34b53d468c0c5739db}
+      \strng{authorfullhashraw}{dde49493161eae34b53d468c0c5739db}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Polarography is still the best known classical measuring method in electroanalytical chemistry. However, in recent years its position has been challenged by cyclic voltammetry (CV). Simple diagnostic criteria and relatively easily acquired measuring techniques have hastened this development. Cyclic voltammetry has the further attraction of providing information not only on the thermodynamics of redox processes but also on the kinetics of heterogeneous electron-transfer reactions and coupled chemical reactions. The characteristic shapes of the voltammetric waves and their unequivocal position on the potential scale virtually fingerprint the individual electrochemical properties of redox systems. For this reason the method has been labeled “electrochemical spectroscopy”.}
+      \field{journaltitle}{Angewandte Chemie International Edition in English}
+      \field{number}{11}
+      \field{title}{Cyclic Voltammetry—“Electrochemical Spectroscopy”. New Analytical Methods (25)}
+      \field{volume}{23}
+      \field{year}{1984}
+      \field{pages}{831\bibrangedash 847}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1002/anie.198408313
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.198408313
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.198408313
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.198408313
+      \endverb
+      \keyw{Electrochemical spectroscopy,Analytical methods,Cyclic voltammetry}
+    \endentry
+    \entry{Nicholson1964}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=478f584e3d44ab1adb4ea0e16908df0f}{%
+           family={Nicholson},
+           familyi={N\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=08509d0ea1dd1826728d00f473fb6c49}{%
+           family={Shain},
+           familyi={S\bibinitperiod},
+           given={Irving.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{f29b5148fb9ea061928048635cd40155}
+      \strng{fullhash}{f29b5148fb9ea061928048635cd40155}
+      \strng{fullhashraw}{f29b5148fb9ea061928048635cd40155}
+      \strng{bibnamehash}{f29b5148fb9ea061928048635cd40155}
+      \strng{authorbibnamehash}{f29b5148fb9ea061928048635cd40155}
+      \strng{authornamehash}{f29b5148fb9ea061928048635cd40155}
+      \strng{authorfullhash}{f29b5148fb9ea061928048635cd40155}
+      \strng{authorfullhashraw}{f29b5148fb9ea061928048635cd40155}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1520-6882}
+      \field{journaltitle}{Analytical Chemistry}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Theory of Stationary Electrode Polarography. Single Scan and Cyclic Methods Applied to Reversible, Irreversible, and Kinetic Systems.}
+      \field{volume}{36}
+      \field{year}{1964}
+      \field{pages}{706\bibrangedash 723}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1021/ac60210a007
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1021/ac60210a007
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/ac60210a007
+      \endverb
+    \endentry
+    \entry{Libretexts_2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=6fb40136cd23d743f66e466e9a9b1d1f}{%
+           family={Libretexts},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Libretexts}%
+      }
+      \strng{namehash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{fullhash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{fullhashraw}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{bibnamehash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{authorbibnamehash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{authornamehash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{authorfullhash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{authorfullhashraw}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemistry LibreTexts}
+      \field{month}{8}
+      \field{title}{Cyclic voltammetry}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Cyclic_Voltammetry
+      \endverb
+      \verb{url}
+      \verb https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Cyclic_Voltammetry
+      \endverb
+    \endentry
+    \entry{GRIMSHAW20001}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=bd3db3fd71790717452956ec8de54b2f}{%
+           family={Grimshaw},
+           familyi={G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bd3db3fd71790717452956ec8de54b2f}{%
+           family={Grimshaw},
+           familyi={G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science B.V.}%
+      }
+      \strng{namehash}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{fullhash}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{fullhashraw}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{bibnamehash}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{authorbibnamehash}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{authornamehash}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{authorfullhash}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{authorfullhashraw}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{editorbibnamehash}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{editornamehash}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{editorfullhash}{bd3db3fd71790717452956ec8de54b2f}
+      \strng{editorfullhashraw}{bd3db3fd71790717452956ec8de54b2f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Electrochemical Reactions and Mechanisms in Organic Chemistry}
+      \field{isbn}{978-0-444-72007-8}
+      \field{title}{CHAPTER 1 - ELECTROCHEMICAL OXIDATION AND REDUCTION OF ORGANIC COMPOUNDS}
+      \field{year}{2000}
+      \field{pages}{1\bibrangedash 26}
+      \range{pages}{26}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-044472007-8/50001-X
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B978044472007850001X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B978044472007850001X
+      \endverb
+    \endentry
+    \entry{Scholz2005-pa}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=742446b6d4c6311d4215c0d6c25448b1}{%
+           family={Scholz},
+           familyi={S\bibinitperiod},
+           given={Fritz},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Berlin, Germany}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{742446b6d4c6311d4215c0d6c25448b1}
+      \strng{fullhash}{742446b6d4c6311d4215c0d6c25448b1}
+      \strng{fullhashraw}{742446b6d4c6311d4215c0d6c25448b1}
+      \strng{bibnamehash}{742446b6d4c6311d4215c0d6c25448b1}
+      \strng{editorbibnamehash}{742446b6d4c6311d4215c0d6c25448b1}
+      \strng{editornamehash}{742446b6d4c6311d4215c0d6c25448b1}
+      \strng{editorfullhash}{742446b6d4c6311d4215c0d6c25448b1}
+      \strng{editorfullhashraw}{742446b6d4c6311d4215c0d6c25448b1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{month}{2}
+      \field{title}{Electroanalytical methods}
+      \field{year}{2005}
+    \endentry
+    \entry{PabloGarca2024}{article}{}{}
+      \name{author}{11}{}{%
+        {{hash=a490ad9f87d143b7edc4f959f5df505e}{%
+           family={Pablo-García},
+           familyi={P\bibinithyphendelim G\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3f199b57d5d4e464c699ce9945a7bf00}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Ángel},
+           giveni={Á\bibinitperiod}}}%
+        {{hash=4931deeea0b240fa1cc8bd9e9eb35d64}{%
+           family={Deniz\bibnamedelima Akkoc},
+           familyi={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Gun},
+           giveni={G\bibinitperiod}}}%
+        {{hash=eb3bea1f8b026c65208408788818a4b6}{%
+           family={Sim},
+           familyi={S\bibinitperiod},
+           given={Malcolm},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a39e14b30fc12aef88508f8f8cbf9cfc}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=44139edf869be3f1084dd9ce10f5c52d}{%
+           family={Somers},
+           familyi={S\bibinitperiod},
+           given={Maxine},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5ad5b77ed64f72da6a888df7fdc072a0}{%
+           family={Hattrick},
+           familyi={H\bibinitperiod},
+           given={Chance},
+           giveni={C\bibinitperiod}}}%
+        {{hash=dfd352b89f61c0ac9ef4814ddaf27954}{%
+           family={Yoshikawa},
+           familyi={Y\bibinitperiod},
+           given={Naruki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6b99e01e5e6551640d8263b13e657afd}{%
+           family={Dworschak},
+           familyi={D\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8e8eb83f2afb0cdb4fa1e933aaff9d1f}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+        {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Alán},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{1a3921271a25f2890d39f822a71a389d}
+      \strng{fullhash}{208ba6ebd1144cf944bb09e3537c4ef9}
+      \strng{fullhashraw}{208ba6ebd1144cf944bb09e3537c4ef9}
+      \strng{bibnamehash}{1a3921271a25f2890d39f822a71a389d}
+      \strng{authorbibnamehash}{1a3921271a25f2890d39f822a71a389d}
+      \strng{authornamehash}{1a3921271a25f2890d39f822a71a389d}
+      \strng{authorfullhash}{208ba6ebd1144cf944bb09e3537c4ef9}
+      \strng{authorfullhashraw}{208ba6ebd1144cf944bb09e3537c4ef9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{An affordable platform for automated synthesis and electrochemical characterization}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.26434/chemrxiv-2024-cwnwc
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.26434/chemrxiv-2024-cwnwc
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.26434/chemrxiv-2024-cwnwc
       \endverb
     \endentry
     \entry{MacQueen1967}{inproceedings}{}{}
@@ -685,8 +1049,8 @@
       \strng{editornamehash}{5d1e3a1d4201e5c121c3191e4e3f9f13}
       \strng{editorfullhash}{5d1e3a1d4201e5c121c3191e4e3f9f13}
       \strng{editorfullhashraw}{5d1e3a1d4201e5c121c3191e4e3f9f13}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the fifth Berkeley Symposium on Mathematical Statistics and Probability}
@@ -696,6 +1060,51 @@
       \field{pages}{281\bibrangedash 297}
       \range{pages}{17}
       \keyw{kmeans clustering}
+    \endentry
+    \entry{Ester1996ADA}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=2c062e64ed26aacc08a62155e7944f04}{%
+           family={Ester},
+           familyi={E\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9559fe65ed2c0877cf14a66fe1f8e9b3}{%
+           family={Kriegel},
+           familyi={K\bibinitperiod},
+           given={Hans-Peter},
+           giveni={H\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=802157026f850823b2027c2100cb359a}{%
+           family={Sander},
+           familyi={S\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2dda16c0a5d50fc830d0d4a3787937fa}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xiaowei},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{3270dfaa31e8210b3bd04b1bcf4a29a3}
+      \strng{fullhash}{3270dfaa31e8210b3bd04b1bcf4a29a3}
+      \strng{fullhashraw}{3270dfaa31e8210b3bd04b1bcf4a29a3}
+      \strng{bibnamehash}{3270dfaa31e8210b3bd04b1bcf4a29a3}
+      \strng{authorbibnamehash}{3270dfaa31e8210b3bd04b1bcf4a29a3}
+      \strng{authornamehash}{3270dfaa31e8210b3bd04b1bcf4a29a3}
+      \strng{authorfullhash}{3270dfaa31e8210b3bd04b1bcf4a29a3}
+      \strng{authorfullhashraw}{3270dfaa31e8210b3bd04b1bcf4a29a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Knowledge Discovery and Data Mining}
+      \field{title}{A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise}
+      \field{year}{1996}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:355163
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:355163
+      \endverb
     \endentry
     \entry{vanDerMaaten2008}{article}{}{}
       \name{author}{2}{}{%
@@ -720,8 +1129,8 @@
       \strng{authornamehash}{07df37c1f29fdfb7765c821206be824a}
       \strng{authorfullhash}{07df37c1f29fdfb7765c821206be824a}
       \strng{authorfullhashraw}{07df37c1f29fdfb7765c821206be824a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Machine Learning Research}
@@ -737,6 +1146,52 @@
       \verb http://www.jmlr.org/papers/v9/vandermaaten08a.html
       \endverb
       \keyw{dimensionality_reduction tSNE visualization}
+    \endentry
+    \entry{https://doi.org/10.48550/arxiv.1802.03426}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=f3edd0ee6ca72eca5c532b9c1fcee621}{%
+           family={McInnes},
+           familyi={M\bibinitperiod},
+           given={Leland},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2a653f5c3174b96798d6336399101032}{%
+           family={Healy},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=542b470ec223367aba58d9d095e4e340}{%
+           family={Melville},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{9bc0813b09f8460b9f60233db84de773}
+      \strng{fullhash}{9bc0813b09f8460b9f60233db84de773}
+      \strng{fullhashraw}{9bc0813b09f8460b9f60233db84de773}
+      \strng{bibnamehash}{9bc0813b09f8460b9f60233db84de773}
+      \strng{authorbibnamehash}{9bc0813b09f8460b9f60233db84de773}
+      \strng{authornamehash}{9bc0813b09f8460b9f60233db84de773}
+      \strng{authorfullhash}{9bc0813b09f8460b9f60233db84de773}
+      \strng{authorfullhashraw}{9bc0813b09f8460b9f60233db84de773}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1802.03426
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1802.03426
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1802.03426
+      \endverb
+      \keyw{Machine Learning (stat.ML),Computational Geometry (cs.CG),Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
     \endentry
     \entry{ROUSSEEUW198753}{article}{}{}
       \name{author}{1}{}{%
@@ -754,8 +1209,8 @@
       \strng{authornamehash}{72d8129c9f4e6afddacb834fb2d8226f}
       \strng{authorfullhash}{72d8129c9f4e6afddacb834fb2d8226f}
       \strng{authorfullhashraw}{72d8129c9f4e6afddacb834fb2d8226f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new graphical display is proposed for partitioning techniques. Each cluster is represented by a so-called silhouette, which is based on the comparison of its tightness and separation. This silhouette shows which objects lie well within their cluster, and which ones are merely somewhere in between clusters. The entire clustering is displayed by combining the silhouettes into a single plot, allowing an appreciation of the relative quality of the clusters and an overview of the data configuration. The average silhouette width provides an evaluation of clustering validity, and might be used to select an ‘appropriate’ number of clusters.}
@@ -777,6 +1232,110 @@
       \endverb
       \keyw{Graphical display,cluster analysis,clustering validity,classification}
     \endentry
+    \entry{SHARMA2018377}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=456a418aea7ae0c912ac5bbd1258f60a}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=597df6f8df77860af7e84fe3e97768ae}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Vibhor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=6f6680e21e94559dadf70478e0f21f56}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Anju},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{35eb3f840767ae22db989b53269c84ec}
+      \strng{fullhash}{35eb3f840767ae22db989b53269c84ec}
+      \strng{fullhashraw}{35eb3f840767ae22db989b53269c84ec}
+      \strng{bibnamehash}{35eb3f840767ae22db989b53269c84ec}
+      \strng{authorbibnamehash}{35eb3f840767ae22db989b53269c84ec}
+      \strng{authornamehash}{35eb3f840767ae22db989b53269c84ec}
+      \strng{authorfullhash}{35eb3f840767ae22db989b53269c84ec}
+      \strng{authorfullhashraw}{35eb3f840767ae22db989b53269c84ec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents an empirical analysis of theperformance of popular convolutional neural networks (CNNs) for identifying objects in real time video feeds. The most popular convolution neural networks for object detection and object category classification from images are Alex Nets, GoogLeNet, and ResNet50. A variety of image data sets are available to test the performance of different types of CNN’s. The commonly found benchmark datasets for evaluating the performance of a convolutional neural network are anImageNet dataset, and CIFAR10, CIFAR100, and MNIST image data sets. This study focuses on analyzing the performance of three popular networks: Alex Net, GoogLeNet, and ResNet50. We have taken three most popular data sets ImageNet, CIFAR10, and CIFAR100 for our study, since, testing the performance of a network on a single data set does not reveal its true capability and limitations. It must be noted that videos are not used as a training dataset, they are used as testing datasets. Our analysis shows that GoogLeNet and ResNet50 are able to recognize objects with better precision compared to Alex Net. Moreover, theperformance of trained CNN’s vary substantially across different categories of objects and we, therefore, will discuss the possible reasons for this.}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{note}{International Conference on Computational Intelligence and Data Science}
+      \field{title}{An Analysis Of Convolutional Neural Networks For Image Classification}
+      \field{volume}{132}
+      \field{year}{2018}
+      \field{pages}{377\bibrangedash 384}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.procs.2018.05.198
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050918309335
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050918309335
+      \endverb
+      \keyw{Deep Learning,CNN,Object detection,Object classification,Neural network}
+    \endentry
+    \entry{PinheiroCinelli2021}{inbook}{}{}
+      \name{author}{4}{}{%
+        {{hash=edb03d6c0d3675669ab170ad2ca6f360}{%
+           family={Pinheiro\bibnamedelima Cinelli},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c6a85dc66bed7bda462b5b459e00d60a}{%
+           family={Araújo\bibnamedelima Marins},
+           familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Matheus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=046304a4abeceb0e449c5f44e6f25c32}{%
+           family={Barros\bibnamedelimb da\bibnamedelima Silva},
+           familyi={B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Eduardo\bibnamedelima Antúnio},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=77719a72a962356ceac4bba5db7dc1dd}{%
+           family={Lima\bibnamedelima Netto},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Sérgio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{36847178804f0a54093cf5b6b6d30bac}
+      \strng{fullhash}{36847178804f0a54093cf5b6b6d30bac}
+      \strng{fullhashraw}{36847178804f0a54093cf5b6b6d30bac}
+      \strng{bibnamehash}{36847178804f0a54093cf5b6b6d30bac}
+      \strng{authorbibnamehash}{36847178804f0a54093cf5b6b6d30bac}
+      \strng{authornamehash}{36847178804f0a54093cf5b6b6d30bac}
+      \strng{authorfullhash}{36847178804f0a54093cf5b6b6d30bac}
+      \strng{authorfullhashraw}{36847178804f0a54093cf5b6b6d30bac}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Variational Methods for Machine Learning with Applications to Deep Networks}
+      \field{isbn}{9783030706791}
+      \field{title}{Variational Autoencoder}
+      \field{year}{2021}
+      \field{pages}{111\bibrangedash 149}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1007/978-3-030-70679-1_5
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/978-3-030-70679-1_5
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-3-030-70679-1_5
+      \endverb
+    \endentry
     \entry{dirac}{book}{}{}
       \name{author}{1}{}{%
         {{hash=59342ede3a101402b34939644b51ad06}{%
@@ -796,8 +1355,8 @@
       \strng{authornamehash}{59342ede3a101402b34939644b51ad06}
       \strng{authorfullhash}{59342ede3a101402b34939644b51ad06}
       \strng{authorfullhashraw}{59342ede3a101402b34939644b51ad06}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9780198520115}
@@ -824,8 +1383,8 @@
       \strng{authorfullhash}{1dd533466eb3313074d496394d319407}
       \strng{authorfullhashraw}{1dd533466eb3313074d496394d319407}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Knuth: Computers and Typesetting}
@@ -858,8 +1417,8 @@
       \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
       \strng{authorfullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{chapter}{1.2}
@@ -867,6 +1426,45 @@
       \field{year}{1973}
       \true{nocite}
       \keyw{knuth,programming}
+    \endentry
+    \entry{J2002-fn}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=fd1be9a3f5ee0a0fd1a090516fa66cf9}{%
+           family={J.},
+           familyi={J\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5b4a8fac30606d30220e8a335d924716}{%
+           family={Faulkner},
+           familyi={F\bibinitperiod},
+           given={Larry\bibnamedelima R},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Nashville, TN}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{c521678b4fda6ab2a2c342432c1c6509}
+      \strng{fullhash}{c521678b4fda6ab2a2c342432c1c6509}
+      \strng{fullhashraw}{c521678b4fda6ab2a2c342432c1c6509}
+      \strng{bibnamehash}{c521678b4fda6ab2a2c342432c1c6509}
+      \strng{authorbibnamehash}{c521678b4fda6ab2a2c342432c1c6509}
+      \strng{authornamehash}{c521678b4fda6ab2a2c342432c1c6509}
+      \strng{authorfullhash}{c521678b4fda6ab2a2c342432c1c6509}
+      \strng{authorfullhashraw}{c521678b4fda6ab2a2c342432c1c6509}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{Student solutions manual to accompany electrochemical methods: Fundamentals and applicaitons, 2e}
+      \field{year}{2002}
+      \true{nocite}
     \endentry
     \entry{Yoshikawa2024}{article}{}{}
       \name{author}{6}{}{%
@@ -912,8 +1510,8 @@
       \strng{authornamehash}{1f86a0a7962e13dc34c37e559a55e5da}
       \strng{authorfullhash}{1f86a0a7962e13dc34c37e559a55e5da}
       \strng{authorfullhashraw}{1f86a0a7962e13dc34c37e559a55e5da}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{2}
@@ -928,6 +1526,49 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.26434/chemrxiv-2024-ttxnr
+      \endverb
+    \endentry
+    \entry{Kramer1992}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=12e58d9d91ce65ae7f071042419baf39}{%
+           family={Kramer},
+           familyi={K\bibinitperiod},
+           given={M.A.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{12e58d9d91ce65ae7f071042419baf39}
+      \strng{fullhash}{12e58d9d91ce65ae7f071042419baf39}
+      \strng{fullhashraw}{12e58d9d91ce65ae7f071042419baf39}
+      \strng{bibnamehash}{12e58d9d91ce65ae7f071042419baf39}
+      \strng{authorbibnamehash}{12e58d9d91ce65ae7f071042419baf39}
+      \strng{authornamehash}{12e58d9d91ce65ae7f071042419baf39}
+      \strng{authorfullhash}{12e58d9d91ce65ae7f071042419baf39}
+      \strng{authorfullhashraw}{12e58d9d91ce65ae7f071042419baf39}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0098-1354}
+      \field{journaltitle}{Computers &amp; Chemical Engineering}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Autoassociative neural networks}
+      \field{volume}{16}
+      \field{year}{1992}
+      \true{nocite}
+      \field{pages}{313\bibrangedash 328}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/0098-1354(92)80051-a
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/0098-1354(92)80051-A
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/0098-1354(92)80051-A
       \endverb
     \endentry
   \enddatalist

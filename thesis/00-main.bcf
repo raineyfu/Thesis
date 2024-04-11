@@ -2377,25 +2377,34 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">thesis.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Faraday_1970</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">goldbook</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">doi:10.1021/ac60210a007</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">https://doi.org/10.1002/anie.198408313</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Libretexts_2023</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">GRIMSHAW20001</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">Scholz2005-pa</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">J2002-fn</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">PabloGarca2024</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">StriethKalthoff2023</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">MacQueen1967</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">vanDerMaaten2008</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">vanDerMaaten2008</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">PabloGarca2024</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">ROUSSEEUW198753</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">SHARMA2018377</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">PinheiroCinelli2021</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Tom2024</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Hickman2023</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">StriethKalthoff2023</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Tom2024</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Faraday_1970</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">goldbook</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Elgrishi2018</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Elgrishi2018</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Zoski2006-zx</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">WAIN20211</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">doi:10.1021/ac60210a007</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">https://doi.org/10.1002/anie.198408313</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Nicholson1964</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Libretexts_2023</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">GRIMSHAW20001</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Scholz2005-pa</bcf:citekey>
     <bcf:citekey order="18" intorder="1">PabloGarca2024</bcf:citekey>
-    <bcf:citekey order="19" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">PabloGarca2024</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">MacQueen1967</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Ester1996ADA</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">vanDerMaaten2008</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">vanDerMaaten2008</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">https://doi.org/10.48550/arxiv.1802.03426</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">ROUSSEEUW198753</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">SHARMA2018377</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">PinheiroCinelli2021</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">PabloGarca2024</bcf:citekey>
+    <bcf:citekey order="29" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
