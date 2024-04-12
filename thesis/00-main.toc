@@ -18,20 +18,20 @@
 \contentsline {section}{\numberline {3.8}t-Distributed Stochastic Neighbour Embedding}{22}{section.3.8}%
 \contentsline {section}{\numberline {3.9}Uniform Manifold Approximation and Projection}{23}{section.3.9}%
 \contentsline {section}{\numberline {3.10}Results and Discussion}{25}{section.3.10}%
-\contentsline {chapter}{\numberline {4}Classification}{38}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{38}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Variational Autoencoders}{39}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Conditional Variational Autoencoders}{40}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Classifier Model Architecture}{40}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Results and Discussion}{42}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Denoising}{56}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{56}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Autoencoder}{56}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Results and Discussion}{57}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Conclusion}{60}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Data and Code Availability}{61}{section.6.1}%
-\contentsline {chapter}{Bibliographic references}{62}{chapter*.41}%
+\contentsline {chapter}{\numberline {4}Classification}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{37}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Variational Autoencoders}{38}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Conditional Variational Autoencoders}{39}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Classifier Model Architecture}{39}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Results and Discussion}{41}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Denoising}{55}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{55}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Autoencoder}{55}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Results and Discussion}{56}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusion}{59}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Data and Code Availability}{60}{section.6.1}%
+\contentsline {chapter}{Bibliographic references}{61}{chapter*.41}%
 \renewcommand \cftchappresnum {Appendix\ }
-\contentsline {chapter}{\numberline {A}}{66}{appendix.A}%
-\contentsline {section}{\numberline {A.1}CV K-Means Cluster Results}{66}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Metals and Ligands}{71}{section.A.2}%
+\contentsline {chapter}{\numberline {A}}{65}{appendix.A}%
+\contentsline {section}{\numberline {A.1}CV K-Means Cluster Results}{65}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Metals and Ligands}{70}{section.A.2}%

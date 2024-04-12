@@ -12,26 +12,26 @@
 \contentsline {figure}{\numberline {3.4}{\ignorespaces DBSCAN Clustering Visualization with CV Data}}{22}{figure.caption.13}%
 \contentsline {figure}{\numberline {3.5}{\ignorespaces K-Means Elbow Method}}{25}{figure.caption.14}%
 \contentsline {figure}{\numberline {3.6}{\ignorespaces Silhouette Method for Promising K Values}}{27}{figure.caption.15}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces DBSCAN Clusters}}{31}{figure.caption.16}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces UMAP Visualization of Normal CV Data and Incorrectly Shaped Data}}{32}{figure.caption.17}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Cyclic Voltammetry t-SNE Projection}}{33}{figure.caption.18}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Differential Pulse Voltammetry t-SNE Projection}}{34}{figure.caption.19}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Cyclic Voltammetry UMAP Projection}}{35}{figure.caption.20}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Differential Pulse Voltammetry UMAP Projection}}{36}{figure.caption.21}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Bokeh Interactive Plot with CV Data}}{37}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces DBSCAN Clusters}}{28}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces UMAP Visualization of Normal CV Data and Incorrectly Shaped Data}}{29}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Cyclic Voltammetry UMAP Projection}}{30}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Differential Pulse Voltammetry UMAP Projection}}{31}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Cyclic Voltammetry t-SNE Projection}}{34}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Differential Pulse Voltammetry t-SNE Projection}}{35}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Bokeh Interactive Plot with CV Data}}{36}{figure.caption.22}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Autoencoder Diagram}}{39}{figure.caption.23}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Classification Model Architecture}}{41}{figure.caption.24}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces CV Ligand ROC Curves}}{48}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Autoencoder Diagram}}{38}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Classification Model Architecture}}{40}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces CV Ligand ROC Curves}}{47}{figure.caption.31}%
 \contentsline {figure}{\numberline {4.4}{\ignorespaces CV Metal ROC Curves}}{48}{figure.caption.32}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces DPV Ligand ROC Curves}}{49}{figure.caption.33}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces DPV Metal ROC Curves}}{50}{figure.caption.34}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces CV Ligand Confusion Matrix}}{51}{figure.caption.35}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Ligand Six and Ligand Seven Voltammogram Comparison}}{52}{figure.caption.36}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces CV Metal Confusion Matrix}}{53}{figure.caption.37}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces DPV Ligand Confusion Matrix}}{54}{figure.caption.38}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces DPV Metal Confusion Matrix}}{55}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces DPV Ligand ROC Curves}}{48}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces DPV Metal ROC Curves}}{49}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces CV Ligand Confusion Matrix}}{50}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Ligand Six and Ligand Seven Voltammogram Comparison}}{51}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces CV Metal Confusion Matrix}}{52}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces DPV Ligand Confusion Matrix}}{53}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces DPV Metal Confusion Matrix}}{54}{figure.caption.39}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces AutoEncoder Results}}{58}{figure.caption.40}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces AutoEncoder Results}}{57}{figure.caption.40}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

@@ -27,7 +27,7 @@ By conditioning the generation process on known attributes or labels, CVAEs can 
     \caption{Classification Model Architecture}
     \label{model_arch}
 \end{figure}
-The classifier architecture can be seen in Figure \ref{model_arch}. The model consists of several convolutional and max-pooling layers to encode the data and reduce dimensions. All layers except for the output layer use the ReLU activation function. The output layer is a dense layer with ten units, one for each metal/ligand, and a softmax activation function. The Adam optimizer and categorical cross-entropy loss are used to train the model. Additionally, the model uses L2 regularization and early stopping to prevent overfitting and ensure smooth convergence. The Glorot uniform initializer is used for weight initialization to facilitate better gradient flow and prevent exploding gradients. 
+The classifier architecture can be seen in Figure \ref{model_arch}. The model consists of several convolutional and max-pooling layers to encode the data and reduce dimensions. All layers except for the output layer use the ReLU activation function \cite{Fukushima1969}. The output layer is a dense layer with ten units, one for each metal/ligand, and a softmax activation function. The Adam optimizer \cite{https://doi.org/10.48550/arxiv.1412.6980} and categorical cross-entropy loss are used to train the model. Additionally, the model uses L2 regularization and early stopping to prevent overfitting and ensure smooth convergence. The Glorot uniform initializer \cite{pmlr-v9-glorot10a} is used for weight initialization to facilitate better gradient flow and prevent exploding gradients. 
 \section{Results and Discussion}
 \begin{table}[!h]
 \begin{center}
@@ -86,8 +86,8 @@ Weighted Avg & 0.86 & 0.85 & 0.85 & 80
 \label{cv_metal_report}
 \end{center}
 \end{table}
-Table \ref{cv_metal_report} provides insights into the precision, recall, and F1-score when classifying each metal type, along with the number of instances (support) for each metal type. Precision indicates the proportion of true positive predictions among all positive predictions, while recall measures the proportion of true positives that were correctly identified. F1-score, the harmonic mean of precision and recall, provides a balanced measure between the two.
-Overall, the classifier model achieved an accuracy of 85\%, indicating its effectiveness in classifying different metal types. However, it is important to note variations in performance across metal types. For instance, Metal 3 achieved perfect precision, recall, and F1-score, suggesting the model\textquotesingle s ability to  classify this particular metal type accurately. On the other hand, Metal 8 exhibited lower precision and recall scores, indicating potential challenges in distinguishing this metal type from others.
+Table \ref{cv_metal_report} provides insights into the precision, recall, and F1-score when classifying each metal type, along with the number of instances (support) for each metal type. Precision indicates the proportion of true positive predictions among all positive predictions, while recall measures the proportion of true positives that were correctly identified. F1-score, the harmonic mean of precision and recall, provides a balanced measure between the two. Please note, the exact definitions of each metal and ligand are available in the Appendix \ref{appendix}.
+Overall, the classifier model achieved an accuracy of 85\%, indicating its effectiveness in classifying different metal types. However, it is important to note variations in performance across metal types. For instance, metal 3 achieved perfect precision, recall, and F1-score, suggesting the model\textquotesingle s ability to  classify this particular metal type accurately. On the other hand, metal 8 exhibited lower precision and recall scores, indicating potential challenges in distinguishing this metal type from others.
 Both macro-average and weighted-average metrics hover around 0.85, indicating a reasonably balanced performance across all metal types. These metrics consider the average performance across all classes, with macro-average treating all classes equally, while weighted-average considers the contribution of each class based on its support.
 \begin{table}[!h]
 \begin{center}
@@ -113,7 +113,7 @@ WeightedAvg & 0.80 & 0.78 & 0.78 & 80
 \label{cv_ligands_report}
 \end{center}
 \end{table}
-Table \ref{cv_metal_report} shows the classification report for classifying ligands. The classifier achieved an accuracy of 78\% overall, indicating its capability to classify different metal types to some extent. However, upon closer examination, there are notable variations in performance across metal types. For instance, Metal 6 demonstrates excellent precision, recall, and F1-score, suggesting the model\textquotesingle s proficiency in accurately classifying this metal type. Conversely, Metal 4 exhibits lower precision, recall, and F1-score, indicating challenges in distinguishing this metal type from others.
+Table \ref{cv_metal_report} shows the classification report for classifying ligands. The classifier achieved an accuracy of 78\% overall, indicating its capability to classify different metal types to some extent. However, upon closer examination, there are notable variations in performance across metal types. For instance, metal 6 demonstrates excellent precision, recall, and F1-score, suggesting the model\textquotesingle s proficiency in accurately classifying this metal type. Conversely, metal 4 exhibits lower precision, recall, and F1-score, indicating challenges in distinguishing this metal type from others.
 \begin{table}[!h]
 \begin{center}
 \begin{tabular}{c|c|c|c|c}
@@ -198,21 +198,21 @@ In Figure \ref{dpv_ligand_roc} and Figure \ref{dpv_metal_roc}, the ROC curves sh
     \label{cv_ligand_matrix}
 \end{figure}
 The data itself may cause issues with classification as some ligands and metals may be more difficult to distinguish than others. The confusion matrices are provided to investigate this.
-From the confusion matrix for ligands \ref{cv_ligand_matrix}, ligand seven was often misclassified as ligand six.
+From the confusion matrix for ligands \ref{cv_ligand_matrix}, ligand 7 was often misclassified as ligand 6.
 \begin{figure}[h!]
   \centering
     \includegraphics[width=1.0\textwidth]{figures/ligand_comparison.png}
     \caption{Ligand Six and Ligand Seven Voltammogram Comparison}
     \label{ligand_comparison}
 \end{figure}
-However, this misclassification is understandable. Figure \ref{ligand_comparison} shows that the voltammograms for ligand six and ligand seven are quite similar. 
+However, this misclassification is understandable. Figure \ref{ligand_comparison} shows that the voltammograms for ligand 6 and ligand 7 are quite similar. 
 \begin{figure}[h!]
   \centering
     \includegraphics[width=1.0\textwidth]{figures/cv_metal_matrix.png}
     \caption{CV Metal Confusion Matrix}
     \label{cv_metal_matrix}
 \end{figure}
-From the confusion matrix for metals \ref{cv_metal_matrix}, metal one was difficult to recognize, with many metals being misclassified as metal one. 
+From the confusion matrix for metals \ref{cv_metal_matrix}, metal one was difficult to recognize, with many metals being misclassified as metal 1. 
 \begin{figure}[h!]
   \centering
     \includegraphics[width=1.0\textwidth]{figures/dpv_ligand_matrix.png}
@@ -226,4 +226,4 @@ From the confusion matrix for metals \ref{cv_metal_matrix}, metal one was diffic
     \label{dpv_metal_matrix}
 \end{figure}
 From the DPV confusion matrices seen in Figure \ref{dpv_metal_matrix} and Figure \ref{dpv_ligand_matrix}, it is hard to draw any definitive conclusions due to the dataset size. 
-A major challenge in supervised learning is providing good examples during training. However, despite using a small dataset, these results are promising. This study establishes that crude CV data obtained from an economical potentiostat can be effectively encoded using CNNs. It was also shown that VAEs and CVAEs can generate high-quality, generalizable synthetic data. These findings align with recent research demonstrating that deep learning models can efficiently process CV data \cite{Hoar2022}. Although the ligand and metal labels are recorded. The results demonstrate that the encoding technique effectively captures the chemistry behind the measurements. Future research can incorporate group SELFIES within the decoder layer to predict or select from a pool of candidate redox groups identified through voltammetry or predict the compound used. 
+A major challenge in supervised learning is providing good examples during training. However, despite using a small dataset, these results are promising. This study establishes that crude CV data obtained from an economical potentiostat can be effectively encoded using CNNs. It was also shown that VAEs and CVAEs can generate high-quality, generalizable synthetic data. These findings align with recent research demonstrating that deep learning models can efficiently process CV data \cite{Hoar2022}. Although the ligand and metal labels are recorded. The results demonstrate that the encoding technique effectively captures the chemistry behind the measurements. Future research can incorporate group SELFIES \cite{D3DD00012E} within the decoder layer to predict or select from a pool of candidate redox groups identified through voltammetry or predict the compound used. 

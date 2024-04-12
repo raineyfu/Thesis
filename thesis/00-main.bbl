@@ -536,8 +536,8 @@
       \strng{authornamehash}{07dea3bfd875c0ddae858dc424c3bded}
       \strng{authorfullhash}{c2631140a25554bb89c98a5698cfd6a8}
       \strng{authorfullhashraw}{c2631140a25554bb89c98a5698cfd6a8}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2635-098X}
@@ -573,8 +573,8 @@
       \strng{authornamehash}{398aec910886d9a54d2ae679a5dbe8a3}
       \strng{authorfullhash}{398aec910886d9a54d2ae679a5dbe8a3}
       \strng{authorfullhashraw}{398aec910886d9a54d2ae679a5dbe8a3}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9780471741992}
@@ -596,8 +596,8 @@
         {International Union of Pure}%
         {Applied Chemistry (IUPAC)}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labeltitlesource}{title}
       \field{edition}{3.0.1}
       \field{title}{electrode potential}
@@ -656,8 +656,8 @@
       \strng{authornamehash}{f23a671d237ce9e82b656171ce7bdf5e}
       \strng{authorfullhash}{f23a671d237ce9e82b656171ce7bdf5e}
       \strng{authorfullhashraw}{f23a671d237ce9e82b656171ce7bdf5e}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0021-9584}
@@ -1121,8 +1121,8 @@
       \strng{editornamehash}{bd3db3fd71790717452956ec8de54b2f}
       \strng{editorfullhash}{bd3db3fd71790717452956ec8de54b2f}
       \strng{editorfullhashraw}{bd3db3fd71790717452956ec8de54b2f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Electrochemical Reactions and Mechanisms in Organic Chemistry}
@@ -1299,6 +1299,41 @@
       \field{title}{Dynamic Programming}
       \field{year}{2003}
     \endentry
+    \entry{Wu2004-gc}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=1ff93e38b4fc798fa1a7de9dedff3cc2}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={S-T},
+           giveni={S\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=950d8e932e35c8a608f18d8d9709a5ad}{%
+           family={Marquez},
+           familyi={M\bibinitperiod},
+           given={M\bibnamedelima R\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sao Carlos, Brazil}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Comput. Soc}%
+      }
+      \strng{namehash}{3844cdff2e71af0dcef2a4de455a95c9}
+      \strng{fullhash}{3844cdff2e71af0dcef2a4de455a95c9}
+      \strng{fullhashraw}{3844cdff2e71af0dcef2a4de455a95c9}
+      \strng{bibnamehash}{3844cdff2e71af0dcef2a4de455a95c9}
+      \strng{authorbibnamehash}{3844cdff2e71af0dcef2a4de455a95c9}
+      \strng{authornamehash}{3844cdff2e71af0dcef2a4de455a95c9}
+      \strng{authorfullhash}{3844cdff2e71af0dcef2a4de455a95c9}
+      \strng{authorfullhashraw}{3844cdff2e71af0dcef2a4de455a95c9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{16th Brazilian Symposium on Computer Graphics and Image Processing ({SIBGRAPI} 2003)}
+      \field{title}{A non-self-intersection {Douglas-Peucker} algorithm}
+      \field{year}{2004}
+    \endentry
     \entry{MacQueen1967}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{hash=cb0021a91d6fac762cc1c86cce52fa3a}{%
@@ -1334,8 +1369,8 @@
       \strng{editornamehash}{5d1e3a1d4201e5c121c3191e4e3f9f13}
       \strng{editorfullhash}{5d1e3a1d4201e5c121c3191e4e3f9f13}
       \strng{editorfullhashraw}{5d1e3a1d4201e5c121c3191e4e3f9f13}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the fifth Berkeley Symposium on Mathematical Statistics and Probability}
@@ -1388,6 +1423,45 @@
       \verb{url}
       \verb http://dx.doi.org/10.1007/BF02289263
       \endverb
+    \endentry
+    \entry{ROUSSEEUW198753}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=72d8129c9f4e6afddacb834fb2d8226f}{%
+           family={Rousseeuw},
+           familyi={R\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{72d8129c9f4e6afddacb834fb2d8226f}
+      \strng{fullhash}{72d8129c9f4e6afddacb834fb2d8226f}
+      \strng{fullhashraw}{72d8129c9f4e6afddacb834fb2d8226f}
+      \strng{bibnamehash}{72d8129c9f4e6afddacb834fb2d8226f}
+      \strng{authorbibnamehash}{72d8129c9f4e6afddacb834fb2d8226f}
+      \strng{authornamehash}{72d8129c9f4e6afddacb834fb2d8226f}
+      \strng{authorfullhash}{72d8129c9f4e6afddacb834fb2d8226f}
+      \strng{authorfullhashraw}{72d8129c9f4e6afddacb834fb2d8226f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A new graphical display is proposed for partitioning techniques. Each cluster is represented by a so-called silhouette, which is based on the comparison of its tightness and separation. This silhouette shows which objects lie well within their cluster, and which ones are merely somewhere in between clusters. The entire clustering is displayed by combining the silhouettes into a single plot, allowing an appreciation of the relative quality of the clusters and an overview of the data configuration. The average silhouette width provides an evaluation of clustering validity, and might be used to select an ‘appropriate’ number of clusters.}
+      \field{issn}{0377-0427}
+      \field{journaltitle}{Journal of Computational and Applied Mathematics}
+      \field{title}{Silhouettes: A graphical aid to the interpretation and validation of cluster analysis}
+      \field{volume}{20}
+      \field{year}{1987}
+      \field{pages}{53\bibrangedash 65}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0377-0427(87)90125-7
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0377042787901257
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0377042787901257
+      \endverb
+      \keyw{Graphical display,cluster analysis,clustering validity,classification}
     \endentry
     \entry{Ester1996ADA}{inproceedings}{}{}
       \name{author}{4}{}{%
@@ -1672,6 +1746,154 @@
       \verb http://dx.doi.org/10.1007/978-3-030-70679-1_5
       \endverb
     \endentry
+    \entry{Fukushima1969}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=23d96062ed18321873ac4b8b6e2fc816}{%
+           family={Fukushima},
+           familyi={F\bibinitperiod},
+           given={Kunihiko},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers (IEEE)}%
+      }
+      \strng{namehash}{23d96062ed18321873ac4b8b6e2fc816}
+      \strng{fullhash}{23d96062ed18321873ac4b8b6e2fc816}
+      \strng{fullhashraw}{23d96062ed18321873ac4b8b6e2fc816}
+      \strng{bibnamehash}{23d96062ed18321873ac4b8b6e2fc816}
+      \strng{authorbibnamehash}{23d96062ed18321873ac4b8b6e2fc816}
+      \strng{authornamehash}{23d96062ed18321873ac4b8b6e2fc816}
+      \strng{authorfullhash}{23d96062ed18321873ac4b8b6e2fc816}
+      \strng{authorfullhashraw}{23d96062ed18321873ac4b8b6e2fc816}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0536-1567}
+      \field{journaltitle}{IEEE Transactions on Systems Science and Cybernetics}
+      \field{number}{4}
+      \field{title}{Visual Feature Extraction by a Multilayered Network of Analog Threshold Elements}
+      \field{volume}{5}
+      \field{year}{1969}
+      \field{pages}{322\bibrangedash 333}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/tssc.1969.300225
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1109/TSSC.1969.300225
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1109/TSSC.1969.300225
+      \endverb
+    \endentry
+    \entry{https://doi.org/10.48550/arxiv.1412.6980}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=b6fbd171848aad4edf3925543f1f1522}{%
+           family={Kingma},
+           familyi={K\bibinitperiod},
+           given={Diederik\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8aa66e8231cc2fdbe67aa4f18ca970c6}{%
+           family={Ba},
+           familyi={B\bibinitperiod},
+           given={Jimmy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{a09df9f123146b8e2c7f1134c9496932}
+      \strng{fullhash}{a09df9f123146b8e2c7f1134c9496932}
+      \strng{fullhashraw}{a09df9f123146b8e2c7f1134c9496932}
+      \strng{bibnamehash}{a09df9f123146b8e2c7f1134c9496932}
+      \strng{authorbibnamehash}{a09df9f123146b8e2c7f1134c9496932}
+      \strng{authornamehash}{a09df9f123146b8e2c7f1134c9496932}
+      \strng{authorfullhash}{a09df9f123146b8e2c7f1134c9496932}
+      \strng{authorfullhashraw}{a09df9f123146b8e2c7f1134c9496932}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Adam: A Method for Stochastic Optimization}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1412.6980
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1412.6980
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1412.6980
+      \endverb
+      \keyw{Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
+    \endentry
+    \entry{pmlr-v9-glorot10a}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=0b3943c3bfdbb5867b3760f7c7d488c2}{%
+           family={Glorot},
+           familyi={G\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=a71fae003da84f44e31d26e868859945}{%
+           family={Teh},
+           familyi={T\bibinitperiod},
+           given={Yee\bibnamedelima Whye},
+           giveni={Y\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=4f07cb446ab04d4d77854b6722712e32}{%
+           family={Titterington},
+           familyi={T\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chia Laguna Resort, Sardinia, Italy}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{02af15243279c938a0a5ca766835bcd4}
+      \strng{fullhash}{02af15243279c938a0a5ca766835bcd4}
+      \strng{fullhashraw}{02af15243279c938a0a5ca766835bcd4}
+      \strng{bibnamehash}{02af15243279c938a0a5ca766835bcd4}
+      \strng{authorbibnamehash}{02af15243279c938a0a5ca766835bcd4}
+      \strng{authornamehash}{02af15243279c938a0a5ca766835bcd4}
+      \strng{authorfullhash}{02af15243279c938a0a5ca766835bcd4}
+      \strng{authorfullhashraw}{02af15243279c938a0a5ca766835bcd4}
+      \strng{editorbibnamehash}{ea4550790536e3c5e0b1f0cd5656198b}
+      \strng{editornamehash}{ea4550790536e3c5e0b1f0cd5656198b}
+      \strng{editorfullhash}{ea4550790536e3c5e0b1f0cd5656198b}
+      \strng{editorfullhashraw}{ea4550790536e3c5e0b1f0cd5656198b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics}
+      \field{month}{13--15 May}
+      \field{series}{Proceedings of Machine Learning Research}
+      \field{title}{Understanding the difficulty of training deep feedforward neural networks}
+      \field{volume}{9}
+      \field{year}{2010}
+      \field{pages}{249\bibrangedash 256}
+      \range{pages}{8}
+      \verb{file}
+      \verb http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v9/glorot10a.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v9/glorot10a.html
+      \endverb
+    \endentry
     \entry{Hoar2022}{article}{}{}
       \name{author}{7}{}{%
         {{hash=66b9bf814f09325dcb27a57b2c26ca3c}{%
@@ -1721,8 +1943,8 @@
       \strng{authornamehash}{b6c3775371cff604a8dc8a30b2276142}
       \strng{authorfullhash}{b6c3775371cff604a8dc8a30b2276142}
       \strng{authorfullhashraw}{b6c3775371cff604a8dc8a30b2276142}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2694-250X}
@@ -1744,6 +1966,71 @@
       \verb http://dx.doi.org/10.1021/acsmeasuresciau.2c00045
       \endverb
     \endentry
+    \entry{D3DD00012E}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=ceb617141c974ab832488d3962f7d1c9}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Austin\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f1065601e6fe86c6ece36a39d6fa44a1}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9396b57b9a73c200687b45022cc36330}{%
+           family={Miret},
+           familyi={M\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod}}}%
+        {{hash=96b112243df63441cd01520736226b3d}{%
+           family={Malkomes},
+           familyi={M\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=19e308bb829983849859c7f29abaa652}{%
+           family={Phielipp},
+           familyi={P\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod}}}%
+        {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Alán},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RSC}%
+      }
+      \strng{namehash}{eedf4556a7c6e47a8b4ca603df6fda96}
+      \strng{fullhash}{eedf4556a7c6e47a8b4ca603df6fda96}
+      \strng{fullhashraw}{eedf4556a7c6e47a8b4ca603df6fda96}
+      \strng{bibnamehash}{eedf4556a7c6e47a8b4ca603df6fda96}
+      \strng{authorbibnamehash}{eedf4556a7c6e47a8b4ca603df6fda96}
+      \strng{authornamehash}{eedf4556a7c6e47a8b4ca603df6fda96}
+      \strng{authorfullhash}{eedf4556a7c6e47a8b4ca603df6fda96}
+      \strng{authorfullhashraw}{eedf4556a7c6e47a8b4ca603df6fda96}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{3}
+      \field{journaltitle}{Digital Discovery}
+      \field{title}{Group SELFIES: a robust fragment-based molecular string representation}
+      \field{volume}{2}
+      \field{year}{2023}
+      \field{pages}{748\bibrangedash 758}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1039/D3DD00012E
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/D3DD00012E
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/D3DD00012E
+      \endverb
+    \endentry
     \entry{Faraday_1970}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=1b15e6fbb339db38dc0fdc09928f1a3e}{%
@@ -1763,8 +2050,8 @@
       \strng{authornamehash}{1b15e6fbb339db38dc0fdc09928f1a3e}
       \strng{authorfullhash}{1b15e6fbb339db38dc0fdc09928f1a3e}
       \strng{authorfullhashraw}{1b15e6fbb339db38dc0fdc09928f1a3e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Faraday, Michael;Royal Society (Great Britain)}
@@ -1798,8 +2085,8 @@
       \strng{authornamehash}{59342ede3a101402b34939644b51ad06}
       \strng{authorfullhash}{59342ede3a101402b34939644b51ad06}
       \strng{authorfullhashraw}{59342ede3a101402b34939644b51ad06}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9780198520115}
@@ -1826,8 +2113,8 @@
       \strng{authorfullhash}{1dd533466eb3313074d496394d319407}
       \strng{authorfullhashraw}{1dd533466eb3313074d496394d319407}
       \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Knuth: Computers and Typesetting}
@@ -1860,8 +2147,8 @@
       \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
       \strng{authorfullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{chapter}{1.2}
@@ -1909,46 +2196,6 @@
       \field{year}{2002}
       \true{nocite}
     \endentry
-    \entry{ROUSSEEUW198753}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=72d8129c9f4e6afddacb834fb2d8226f}{%
-           family={Rousseeuw},
-           familyi={R\bibinitperiod},
-           given={Peter\bibnamedelima J.},
-           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{72d8129c9f4e6afddacb834fb2d8226f}
-      \strng{fullhash}{72d8129c9f4e6afddacb834fb2d8226f}
-      \strng{fullhashraw}{72d8129c9f4e6afddacb834fb2d8226f}
-      \strng{bibnamehash}{72d8129c9f4e6afddacb834fb2d8226f}
-      \strng{authorbibnamehash}{72d8129c9f4e6afddacb834fb2d8226f}
-      \strng{authornamehash}{72d8129c9f4e6afddacb834fb2d8226f}
-      \strng{authorfullhash}{72d8129c9f4e6afddacb834fb2d8226f}
-      \strng{authorfullhashraw}{72d8129c9f4e6afddacb834fb2d8226f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A new graphical display is proposed for partitioning techniques. Each cluster is represented by a so-called silhouette, which is based on the comparison of its tightness and separation. This silhouette shows which objects lie well within their cluster, and which ones are merely somewhere in between clusters. The entire clustering is displayed by combining the silhouettes into a single plot, allowing an appreciation of the relative quality of the clusters and an overview of the data configuration. The average silhouette width provides an evaluation of clustering validity, and might be used to select an ‘appropriate’ number of clusters.}
-      \field{issn}{0377-0427}
-      \field{journaltitle}{Journal of Computational and Applied Mathematics}
-      \field{title}{Silhouettes: A graphical aid to the interpretation and validation of cluster analysis}
-      \field{volume}{20}
-      \field{year}{1987}
-      \true{nocite}
-      \field{pages}{53\bibrangedash 65}
-      \range{pages}{13}
-      \verb{doi}
-      \verb https://doi.org/10.1016/0377-0427(87)90125-7
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/0377042787901257
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/0377042787901257
-      \endverb
-      \keyw{Graphical display,cluster analysis,clustering validity,classification}
-    \endentry
     \entry{Kramer1992}{article}{}{}
       \name{author}{1}{}{%
         {{hash=12e58d9d91ce65ae7f071042419baf39}{%
@@ -1968,8 +2215,8 @@
       \strng{authornamehash}{12e58d9d91ce65ae7f071042419baf39}
       \strng{authorfullhash}{12e58d9d91ce65ae7f071042419baf39}
       \strng{authorfullhashraw}{12e58d9d91ce65ae7f071042419baf39}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0098-1354}
