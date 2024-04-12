@@ -29,8 +29,9 @@
 \contentsline {section}{\numberline {5.2}Autoencoder}{56}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Results and Discussion}{57}{section.5.3}%
 \contentsline {chapter}{\numberline {6}Conclusion}{60}{chapter.6}%
-\contentsline {chapter}{Bibliographic references}{61}{chapter*.41}%
+\contentsline {section}{\numberline {6.1}Data and Code Availability}{61}{section.6.1}%
+\contentsline {chapter}{Bibliographic references}{62}{chapter*.41}%
 \renewcommand \cftchappresnum {Appendix\ }
-\contentsline {chapter}{\numberline {A}}{65}{appendix.A}%
-\contentsline {section}{\numberline {A.1}CV K-Means Cluster Results}{65}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Metals and Ligands}{70}{section.A.2}%
+\contentsline {chapter}{\numberline {A}}{66}{appendix.A}%
+\contentsline {section}{\numberline {A.1}CV K-Means Cluster Results}{66}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Metals and Ligands}{71}{section.A.2}%

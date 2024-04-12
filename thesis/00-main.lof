@@ -9,7 +9,7 @@
 \contentsline {figure}{\numberline {3.1}{\ignorespaces RDP Algorithm}}{16}{figure.caption.10}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Raw Data and Processed Data}}{18}{figure.caption.11}%
 \contentsline {figure}{\numberline {3.3}{\ignorespaces K-Means Clustering Visualization with CV data}}{19}{figure.caption.12}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces DBSCAN Clustering Visualization with CV Data}}{21}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces DBSCAN Clustering Visualization with CV Data}}{22}{figure.caption.13}%
 \contentsline {figure}{\numberline {3.5}{\ignorespaces K-Means Elbow Method}}{25}{figure.caption.14}%
 \contentsline {figure}{\numberline {3.6}{\ignorespaces Silhouette Method for Promising K Values}}{27}{figure.caption.15}%
 \contentsline {figure}{\numberline {3.7}{\ignorespaces DBSCAN Clusters}}{31}{figure.caption.16}%
