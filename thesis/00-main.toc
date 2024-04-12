@@ -1,8 +1,8 @@
 \babel@toc {american}{}\relax 
-\contentsline {chapter}{Acknowledgment}{iv}{chapter*.2}%
-\contentsline {chapter}{List of Tables}{vii}{chapter*.4}%
+\contentsline {chapter}{Acknowledgment}{ii}{chapter*.2}%
+\contentsline {chapter}{List of Tables}{v}{chapter*.4}%
+\contentsline {chapter}{List of Figures}{vii}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
-\contentsline {chapter}{List of Figures}{1}{chapter*.5}%
 \contentsline {chapter}{\numberline {2}Background and Motivation}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Electrochemistry}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Cyclic Voltammetry}{9}{section.2.2}%
@@ -11,25 +11,26 @@
 \contentsline {section}{\numberline {3.1}Introduction}{13}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Data Collection}{14}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Curse of Dimensionality}{15}{section.3.3}%
-\contentsline {section}{\numberline {3.4}K-Means}{15}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Density-Based Spatial Clustering of Applications with Noise}{18}{section.3.5}%
-\contentsline {section}{\numberline {3.6}t-Distributed Stochastic Neighbor Embedding}{19}{section.3.6}%
-\contentsline {section}{\numberline {3.7}UMAP}{20}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Ramer–Douglas–Peucker Algorithm}{21}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Data Preparation and Encoding}{22}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Results and Discussion}{24}{section.3.10}%
-\contentsline {chapter}{\numberline {4}Classification}{34}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{34}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Variational Autoencoders}{34}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Conditional Variational Autoencoders}{36}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Classifier Model Architecture}{36}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Results and Discussion}{38}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Denoising}{51}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{51}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Autoencoder}{51}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Results and Discussion}{52}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Conclusion}{55}{chapter.6}%
-\contentsline {chapter}{Bibliographic references}{56}{chapter*.40}%
+\contentsline {section}{\numberline {3.4}Ramer–Douglas–Peucker Algorithm}{16}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Data Preparation and Encoding}{17}{section.3.5}%
+\contentsline {section}{\numberline {3.6}K-Means}{19}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Density-Based Spatial Clustering of Applications with Noise}{21}{section.3.7}%
+\contentsline {section}{\numberline {3.8}t-Distributed Stochastic Neighbour Embedding}{22}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Uniform Manifold Approximation and Projection}{23}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Results and Discussion}{25}{section.3.10}%
+\contentsline {chapter}{\numberline {4}Classification}{38}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{38}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Variational Autoencoders}{39}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Conditional Variational Autoencoders}{40}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Classifier Model Architecture}{40}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Results and Discussion}{42}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Denoising}{56}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{56}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Autoencoder}{56}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Results and Discussion}{57}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusion}{60}{chapter.6}%
+\contentsline {chapter}{Bibliographic references}{61}{chapter*.41}%
 \renewcommand \cftchappresnum {Appendix\ }
-\contentsline {chapter}{\numberline {A}CV K-Means Cluster Results}{59}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Metals and Ligands}{64}{section.A.1}%
+\contentsline {chapter}{\numberline {A}}{65}{appendix.A}%
+\contentsline {section}{\numberline {A.1}CV K-Means Cluster Results}{65}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Metals and Ligands}{70}{section.A.2}%

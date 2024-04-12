@@ -1,19 +1,19 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
-[0] Config.pm:311> INFO - Logfile is '00-main.blg'
-[162] biber-MSWIN64:340> INFO - === 
-[238] Biber.pm:420> INFO - Reading '00-main.bcf'
-[419] Biber.pm:991> INFO - Using all citekeys in bib section 0
-[447] Biber.pm:4463> INFO - Processing section 0
-[484] Biber.pm:4654> INFO - Looking for bibtex file 'thesis.bib' for section 0
-[564] bibtex.pm:1713> INFO - LaTeX decoding ...
-[628] bibtex.pm:1519> INFO - Found BibTeX data source 'thesis.bib'
-[1097] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1098] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1099] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1100] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[1193] bbl.pm:676> INFO - Writing '00-main.bbl' with encoding 'UTF-8'
-[1238] bbl.pm:779> INFO - Output to 00-main.bbl
-[1238] Biber.pm:131> WARN - legacy month field 'Feb' in entry 'Elgrishi2018' is not an integer - this will probably not sort properly.
-[1240] Biber.pm:131> WARN - legacy month field 'Aug' in entry 'Libretexts_2023' is not an integer - this will probably not sort properly.
-[1241] Biber.pm:131> WARN - legacy month field 'Jan' in entry 'Faraday_1970' is not an integer - this will probably not sort properly.
-[1242] Biber.pm:133> INFO - WARNINGS: 3
+[1] Config.pm:311> INFO - Logfile is '00-main.blg'
+[188] biber-MSWIN64:340> INFO - === 
+[253] Biber.pm:420> INFO - Reading '00-main.bcf'
+[441] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[469] Biber.pm:4463> INFO - Processing section 0
+[487] Biber.pm:4654> INFO - Looking for bibtex file 'thesis.bib' for section 0
+[579] bibtex.pm:1713> INFO - LaTeX decoding ...
+[665] bibtex.pm:1519> INFO - Found BibTeX data source 'thesis.bib'
+[1154] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1154] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1155] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1156] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1206] bbl.pm:676> INFO - Writing '00-main.bbl' with encoding 'UTF-8'
+[1262] bbl.pm:779> INFO - Output to 00-main.bbl
+[1263] Biber.pm:131> WARN - legacy month field 'Feb' in entry 'Elgrishi2018' is not an integer - this will probably not sort properly.
+[1263] Biber.pm:131> WARN - legacy month field 'Jan' in entry 'Faraday_1970' is not an integer - this will probably not sort properly.
+[1264] Biber.pm:131> WARN - legacy month field 'Aug' in entry 'Libretexts_2023' is not an integer - this will probably not sort properly.
+[1264] Biber.pm:133> INFO - WARNINGS: 3

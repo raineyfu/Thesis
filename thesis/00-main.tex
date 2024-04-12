@@ -1,5 +1,4 @@
 \documentclass[12pt]{report}                % define the document class
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% if possible, please make your formatting changes here through the variables 
@@ -481,24 +480,19 @@ aboveskip=0.5cm}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% FRONT MATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \onehalfspacing                             % one-and-half spacing for title page
 \include{01-title}                          % includ the title page
-
-
 %% chapter header and page numbering set up
 %% header unnumbered chapters (to remove the headers, comment out the following lines)
+\MainTextSpacing                            % double spacing for the contents
 \pagestyle{fancy}
 \fancyhead[R]{}                             % empty top-right header throughout the document
 \fancyhead[L]{\nouppercase \leftmark}       % avoiding upper-case in header
-\pagenumbering{roman}                       % pagination style: roman numeral
-\setcounter{page}{2}                        % page counter starts at roman ii
-\MainTextSpacing                            % double spacing for the contents
-
-
+\pagenumbering{roman}   
 %% add abstract, dedication, and acknowledgment (and any other front matter)
+\setcounter{page}{0}                        % page counter starts at roman ii
 \include{02-abstract}
-\include{03-acknowledgement}
+\include{03-acknowledgement}                    % pagination style: roman numerals
 
 %% single spacing is too cluttered and double spacing is too wide-spread
 \TOCTextSpacing                             % one-half spacing for the table of contents
@@ -524,6 +518,7 @@ aboveskip=0.5cm}
 %% full header for the numbered chapters (to remove header comment out the following lines)
 \renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
 \fancyhead[L]{\chaptername\ \thechapter. \nouppercase \leftmark}
+\newcommand{\doubleharpoon}{\ensuremath{\rightleftharpoons}}
 
 %% include all the main text chapters
 \include{04-introduction}
